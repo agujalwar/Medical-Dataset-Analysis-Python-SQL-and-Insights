@@ -2,6 +2,9 @@
 
 # Medical Dataset Analysis: Python, SQL, and Insights · Jan 2024
 
+This project focuses on three critical datasets: "hospitalization_details," "medical_examinations," and "names." Divided into two essential modules, the project commences with meticulous data cleaning, ensuring the data's accuracy and structure. Once the data shines brilliantly, the second module unleashes the power of SQL queries to extract valuable insights.
+
+### Summery:
 • Enhanced healthcare decisions through Python and SQL data analytics.
 • Meticulously cleaned data to ensure accuracy of critical medical datasets.
 • Utilized SQL queries to extract crucial insights from patients' medical history and hospitalization details for informed decision-making.
