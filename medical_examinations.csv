@@ -1,0 +1,2375 @@
+cid,b_m_i,HBA1C,h_Issues,any_transplant,cancer_hist,noofmajorsurgeries,smoker??,recovery_period
+Id1,47.41,7.47,No,No,No,No major surgery,yes,None
+Id2,30.36,5.77,No,No,No,No major surgery,yes,None
+Id3,34.485,11.87,yes,No,No,2,yes,Moderate
+Id4,38.095,6.05,No,No,No,No major surgery,yes,None
+Id5,35.53,5.45,No,No,No,No major surgery,yes,None
+Id6,32.8,6.59,No,No,No,No major surgery,yes,None
+Id7,36.4,6.07,No,No,No,No major surgery,yes,None
+Id8,36.96,7.93,No,No,No,3,yes,Extended
+Id9,41.14,9.58,yes,No,Yes,1,yes,Short
+Id10,38.06,10.79,No,No,No,No major surgery,yes,None
+Id11,37.7,5.96,yes,No,No,2,yes,Moderate
+Id12,42.13,11.9,No,No,No,No major surgery,yes,None
+Id13,40.92,8.41,No,No,No,No major surgery,yes,None
+Id14,40.565,7.02,No,No,No,No major surgery,yes,None
+Id15,36.385,7.59,yes,No,No,2,yes,Moderate
+Id16,39.9,11.32,No,No,No,No major surgery,yes,None
+Id17,33.8,7.67,No,No,No,3,yes,Extended
+Id18,36.765,7.29,yes,No,Yes,1,yes,Short
+Id19,36.955,4.72,yes,No,No,1,yes,Short
+Id20,42.9,11.41,No,No,No,No major surgery,yes,None
+Id21,36.3,11.5,yes,No,No,2,yes,Moderate
+Id22,32.2,6.22,yes,No,No,2,yes,Moderate
+Id23,31.3,11.38,No,No,No,3,yes,Extended
+Id24,41.8,7.89,yes,No,No,2,yes,Moderate
+Id25,35.09,4.38,yes,No,No,2,yes,Moderate
+Id26,33.88,7.01,No,No,No,3,yes,Extended
+Id27,30.875,11.88,No,No,No,No major surgery,yes,None
+Id28,36.86,5.19,yes,No,Yes,1,yes,Short
+Id29,35.86,6.74,yes,No,No,2,yes,Moderate
+Id30,37.05,8.44,No,No,No,No major surgery,yes,None
+Id31,43.89,8.71,No,No,No,No major surgery,yes,None
+Id32,42.35,5.08,yes,No,No,No major surgery,yes,None
+Id33,31.35,6.86,No,No,No,No major surgery,yes,None
+Id34,47.6,5.95,yes,No,No,No major surgery,yes,None
+Id35,46.2,6.09,No,No,Yes,1,yes,Short
+Id36,32.015,11.75,No,No,No,No major surgery,yes,None
+Id37,40.565,7.37,No,No,No,No major surgery,yes,None
+Id38,32.45,11.91,No,No,No,No major surgery,yes,None
+Id39,34.96,6.52,No,No,No,No major surgery,yes,None
+Id40,35.5,5.14,No,No,Yes,1,yes,Short
+Id41,52.58,4.19,No,yes,No,1,yes,Short
+Id42,35.2,11.68,yes,No,No,No major surgery,yes,None
+Id43,38.06,6.98,No,No,No,No major surgery,yes,None
+Id44,34.21,8.34,No,No,No,No major surgery,yes,None
+Id45,38.94,8.49,yes,No,No,1,yes,Short
+Id46,30.21,5.34,yes,No,No,1,yes,Short
+Id47,33.63,4.43,yes,No,No,2,yes,Moderate
+Id48,40.37,4.47,No,No,No,No major surgery,yes,None
+Id49,53.09,4.82,yes,No,No,2,yes,Moderate
+Id50,31.79,5.51,yes,No,No,2,yes,Moderate
+Id51,41.895,10.87,yes,No,No,1,yes,Short
+Id52,31.16,9.34,No,No,No,No major surgery,yes,None
+Id53,34.105,5.03,yes,No,Yes,1,yes,Short
+Id54,51.93,11.05,No,No,No,No major surgery,yes,None
+Id55,38.95,11.95,No,No,No,No major surgery,yes,None
+Id56,36.63,7.72,yes,No,No,1,yes,Short
+Id57,34.2,5.75,No,No,No,2,yes,Moderate
+Id58,50.63,11.89,No,No,No,No major surgery,yes,None
+Id59,36.48,6.2,No,No,No,No major surgery,yes,None
+Id60,54.82,10.61,No,No,No,No major surgery,yes,None
+Id61,38.06,6.04,No,No,Yes,1,yes,Short
+Id62,51.48,9.33,yes,No,No,No major surgery,yes,None
+Id63,52.06,11.47,No,No,No,No major surgery,yes,None
+Id64,30.685,7.02,yes,No,No,No major surgery,yes,None
+Id65,36.08,8.8,yes,No,No,1,yes,Short
+Id66,54.99,8.68,No,No,No,2,yes,Moderate
+Id67,35.97,6.12,No,No,Yes,1,yes,Short
+Id68,45.54,5.4,yes,No,Yes,1,yes,Short
+Id69,35.53,4.36,yes,No,No,No major surgery,yes,None
+Id70,30.8,9.77,No,No,No,No major surgery,yes,None
+Id71,38.39,4.25,No,No,No,1,yes,Short
+Id72,32.3,4.76,No,No,No,2,yes,Moderate
+Id73,48.8,6.22,yes,No,No,2,yes,Moderate
+Id74,45.5,7.96,No,No,No,No major surgery,yes,None
+Id75,53.61,10.92,yes,No,No,1,yes,Short
+Id76,36.19,11.51,yes,No,No,1,yes,Short
+Id77,34.6,5.99,yes,No,No,No major surgery,yes,None
+Id78,54.12,11.57,No,No,No,No major surgery,yes,None
+Id79,48.82,6.67,yes,No,No,No major surgery,yes,None
+Id80,51.01,9.2,No,No,No,No major surgery,yes,None
+Id81,45.65,5.11,yes,No,No,1,yes,Short
+Id82,52.9,5.34,No,No,No,No major surgery,yes,None
+Id83,45.41,4.03,yes,No,No,1,yes,Short
+Id84,49.41,4.23,yes,No,Yes,1,yes,Short
+Id85,31.825,4.06,No,No,No,2,yes,Moderate
+Id86,51.28,4.68,No,No,No,2,yes,Moderate
+Id87,34.96,4.34,No,No,Yes,1,yes,Short
+Id88,33.11,10.51,No,No,No,No major surgery,yes,None
+Id89,54.74,5.84,yes,No,Yes,1,yes,Short
+Id90,32.56,5.41,No,No,Yes,1,yes,Short
+Id91,39.05,6.06,No,No,No,1,yes,Short
+Id92,42.75,4.22,No,No,No,No major surgery,yes,None
+Id93,50.58,5.12,No,No,No,2,yes,Moderate
+Id94,30.495,4.57,yes,No,No,No major surgery,yes,None
+Id95,48.31,9.58,yes,No,No,2,yes,Moderate
+Id96,48.99,9.78,yes,No,No,1,yes,Short
+Id97,38.39,4.11,yes,No,No,No major surgery,yes,None
+Id98,44.34,4.02,yes,No,No,2,yes,Moderate
+Id99,41.51,6.92,No,No,No,No major surgery,yes,None
+Id100,48.2,4.84,No,No,No,No major surgery,yes,None
+Id101,35.75,8,yes,No,No,No major surgery,yes,None
+Id102,53.81,8.77,yes,No,No,No major surgery,yes,None
+Id103,49.48,4.96,No,No,Yes,1,yes,Short
+Id104,34.1,4.43,yes,No,No,No major surgery,yes,None
+Id105,35.3,5.82,yes,No,Yes,1,yes,Short
+Id106,43.83,6.03,yes,No,No,2,yes,Moderate
+Id107,50.07,9.27,No,No,No,No major surgery,yes,None
+Id108,32.775,5.53,No,No,No,No major surgery,yes,None
+Id109,34.105,5.07,No,No,No,1,yes,Short
+Id110,48.93,11.17,yes,No,No,1,yes,Short
+Id111,37.07,6.14,yes,No,No,No major surgery,yes,None
+Id112,51.51,6.26,yes,No,Yes,1,yes,Short
+Id113,34.8,4.72,yes,No,No,No major surgery,yes,None
+Id114,36.67,5.18,No,No,No,1,yes,Short
+Id115,30.9,9.4,No,No,No,2,yes,Moderate
+Id116,30.495,6.29,No,No,No,No major surgery,yes,None
+Id117,44.88,6.04,No,No,Yes,1,yes,Short
+Id118,44.32,10.55,No,No,No,No major surgery,yes,None
+Id119,46.39,5.09,No,No,No,No major surgery,yes,None
+Id120,42.13,5.2,yes,No,No,1,yes,Short
+Id121,30.78,8.45,yes,No,No,No major surgery,yes,None
+Id122,31.35,9.54,No,No,No,No major surgery,yes,None
+Id123,41.46,4.99,yes,No,No,2,yes,Moderate
+Id124,48,10.54,No,No,No,No major surgery,yes,None
+Id125,49.13,4.54,No,No,No,No major surgery,yes,None
+Id126,37.8,6.29,No,No,No,1,yes,Short
+Id127,38.3,9.51,No,No,No,No major surgery,yes,None
+Id128,32.775,4.72,No,No,No,No major surgery,yes,None
+Id129,34.2,5.91,yes,No,No,No major surgery,yes,None
+Id130,30.2,9.58,No,No,No,No major surgery,yes,None
+Id131,48.32,5.77,No,No,No,No major surgery,yes,None
+Id132,44.86,4.38,yes,No,No,No major surgery,yes,None
+Id133,52.15,5.65,No,No,No,1,yes,Short
+Id134,41.12,7.54,yes,No,No,No major surgery,yes,None
+Id135,38.39,5.11,yes,No,No,1,yes,Short
+Id136,46.85,4.25,No,No,Yes,1,yes,Short
+Id137,42.24,5.55,No,yes,No,1,yes,Short
+Id138,34.39,5.78,No,No,No,No major surgery,yes,None
+Id139,42.89,5.28,yes,No,No,No major surgery,yes,None
+Id140,36.3,5.39,No,No,No,No major surgery,yes,None
+Id141,35.2,8.01,yes,No,No,1,yes,Short
+Id142,53.62,5.21,No,No,No,No major surgery,yes,None
+Id143,36.67,6.27,No,No,No,No major surgery,yes,None
+Id144,33.4,10.73,yes,No,No,1,yes,Short
+Id145,42.71,10.52,No,No,No,No major surgery,yes,None
+Id146,41.52,11.82,yes,No,No,2,yes,Moderate
+Id147,39.4,6.76,No,No,No,No major surgery,yes,None
+Id148,46.45,5.62,No,No,No,No major surgery,yes,None
+Id149,35.75,4.19,No,No,No,No major surgery,yes,None
+Id150,26.07,5.32,No,No,No,No major surgery,yes,None
+Id151,36.54,4.46,yes,No,No,1,yes,Short
+Id152,51.64,5.65,No,No,No,No major surgery,yes,None
+Id153,42.83,6.04,No,No,No,2,yes,Moderate
+Id154,40.15,5.76,No,No,No,1,yes,Short
+Id155,27.8,4.36,No,No,Yes,1,yes,Short
+Id156,45.81,4.76,yes,No,Yes,1,yes,Short
+Id157,34.43,10.82,yes,No,No,1,yes,Short
+Id158,41.33,4.01,yes,No,No,No major surgery,yes,None
+Id159,31.92,5.12,yes,No,No,1,yes,Short
+Id160,39.8,10.54,yes,No,No,2,yes,Moderate
+Id161,42.82,4.21,No,No,No,No major surgery,yes,None
+Id162,33.63,5.42,No,No,No,No major surgery,yes,None
+Id163,37.07,4.28,No,yes,No,1,yes,Short
+Id164,35.625,8.9,No,No,No,No major surgery,yes,None
+Id165,42.69,4.89,No,No,Yes,1,yes,Short
+Id166,37.87,4.29,yes,No,Yes,1,yes,Short
+Id167,40.61,8,yes,No,No,1,yes,Short
+Id168,30.78,4.67,yes,No,No,No major surgery,yes,None
+Id169,49.49,4.5,No,No,No,No major surgery,yes,None
+Id170,37.62,6.32,yes,yes,No,2,yes,Moderate
+Id171,36.08,6.1,yes,No,No,1,yes,Short
+Id172,33.5,5.4,No,No,No,No major surgery,yes,None
+Id173,47.46,6.24,yes,No,No,1,yes,Short
+Id174,49.24,4.45,No,No,No,No major surgery,yes,None
+Id175,54.4,5.22,No,No,No,1,yes,Short
+Id176,35.53,4.61,No,No,No,1,yes,Short
+Id177,39.73,6.24,No,No,No,No major surgery,yes,None
+Id178,35.68,10.04,No,No,No,No major surgery,yes,None
+Id179,48.86,6.09,No,No,No,No major surgery,yes,None
+Id180,34.8,11.4,yes,No,Yes,1,No,Short
+Id181,32.49,4.29,No,No,Yes,1,yes,Short
+Id182,39,5.7,No,No,No,2,yes,Moderate
+Id183,35.3,6.09,No,No,No,1,yes,Short
+Id184,33.42,10.67,No,No,No,No major surgery,yes,None
+Id185,37.18,6.75,yes,No,No,2,yes,Moderate
+Id186,33.33,9.26,yes,No,No,2,No,Moderate
+Id187,53.21,4.27,No,No,No,1,yes,Short
+Id188,38.73,11.51,No,No,No,2,yes,Moderate
+Id189,29.73,7.22,No,No,No,No major surgery,yes,None
+Id190,34.7,4.37,No,No,Yes,1,yes,Short
+Id191,38.28,11.56,yes,No,No,1,yes,Short
+Id192,33.57,8.82,yes,No,No,No major surgery,yes,None
+Id193,52.06,4.69,No,No,No,1,yes,Short
+Id194,38.17,4.53,No,yes,No,1,yes,Short
+Id195,36.955,5.84,No,No,Yes,1,yes,Short
+Id196,34.4,4.9,No,No,Yes,1,yes,Short
+Id197,31.73,4.3,No,No,No,No major surgery,yes,None
+Id198,36.64,11.34,No,No,No,No major surgery,yes,None
+Id199,36.85,5.88,No,yes,No,1,yes,Short
+Id200,33.33,5.01,yes,No,Yes,1,yes,Short
+Id201,39.14,4.4,No,No,Yes,1,yes,Short
+Id202,32.9,6.26,yes,No,No,No major surgery,yes,None
+Id203,29.78,10.27,yes,No,Yes,1,yes,Short
+Id204,32.78,5.27,No,No,No,No major surgery,yes,None
+Id205,41.65,10.73,yes,No,No,No major surgery,yes,None
+Id206,50.79,4.45,No,No,No,1,yes,Short
+Id207,35.43,5.25,yes,No,No,No major surgery,yes,None
+Id208,35.25,9.51,No,No,No,No major surgery,yes,None
+Id209,36.85,11.12,No,No,No,No major surgery,yes,None
+Id210,31.02,4.56,No,yes,No,1,yes,Short
+Id211,35.6,4.02,yes,yes,No,2,yes,Moderate
+Id212,34.39,8.72,No,No,No,No major surgery,yes,None
+Id213,29.06,6.25,yes,No,No,1,yes,Short
+Id214,35.8,7.32,No,No,No,2,yes,Moderate
+Id215,49.8,4.24,No,No,No,1,yes,Short
+Id216,35.71,6.84,No,No,No,2,yes,Moderate
+Id217,30.8,5.23,yes,No,No,1,yes,Short
+Id218,33.69,9.68,No,No,No,No major surgery,yes,None
+Id219,42.27,6.05,yes,No,No,1,yes,Short
+Id220,53.25,6.11,yes,No,Yes,1,yes,Short
+Id221,26.8,10.93,yes,No,No,No major surgery,No,None
+Id222,28.5,5.12,No,No,No,1,yes,Short
+Id223,22.895,5.72,No,No,No,No major surgery,yes,None
+Id224,34.06,11.83,yes,No,No,1,yes,Short
+Id225,36.41,4.55,No,No,No,No major surgery,yes,None
+Id226,52.3,4.87,yes,No,Yes,1,yes,Short
+Id227,52.66,4.45,No,No,No,1,yes,Short
+Id228,29.57,9.42,yes,No,No,No major surgery,yes,None
+Id229,36.99,5.37,yes,No,Yes,1,yes,Short
+Id230,31.4,4.6,yes,No,No,1,yes,Short
+Id231,34.9,6.22,No,No,Yes,1,yes,Short
+Id232,31.13,4.52,yes,No,No,1,yes,Short
+Id233,34.8,6.18,No,No,Yes,1,yes,Short
+Id234,31.68,4.4,No,No,No,No major surgery,yes,None
+Id235,33.535,6.23,No,yes,No,1,yes,Short
+Id236,31.92,5.33,yes,No,No,No major surgery,yes,None
+Id237,32.7,4.09,No,No,No,1,yes,Short
+Id238,41.25,5.19,No,No,No,No major surgery,yes,None
+Id239,33.11,4.12,No,No,Yes,1,yes,Short
+Id240,36.16,5.1,No,No,No,1,yes,Short
+Id241,33.72,6.21,yes,No,Yes,1,yes,Short
+Id242,37.74,9.53,yes,No,No,1,yes,Short
+Id243,48.75,4.64,yes,No,No,1,yes,Short
+Id244,31.065,5.05,No,No,No,1,yes,Short
+Id245,23.55,10.38,No,No,No,No major surgery,yes,None
+Id246,30.18,8.31,yes,No,No,1,yes,Short
+Id247,29.94,7.59,No,No,No,No major surgery,yes,None
+Id248,31.4,5.49,No,No,No,No major surgery,yes,None
+Id249,53.06,11.68,No,No,No,No major surgery,yes,None
+Id250,30.25,4.19,No,No,No,2,yes,Moderate
+Id251,46.68,4.01,No,No,No,No major surgery,yes,None
+Id252,30.4,5.91,No,yes,No,2,yes,Moderate
+Id253,30.2,4.47,yes,No,Yes,1,yes,Short
+Id254,51.18,4.56,yes,yes,No,2,yes,Moderate
+Id255,22.18,9.9,No,No,No,No major surgery,yes,None
+Id256,31.92,5.11,No,No,Yes,1,yes,Short
+Id257,31.73,5.73,No,yes,No,1,yes,Short
+Id258,45.52,6.04,No,No,Yes,1,yes,Short
+Id259,52.81,5.19,No,No,Yes,1,yes,Short
+Id260,33.58,5.56,No,No,No,1,yes,Short
+Id261,30.685,8.23,No,No,No,No major surgery,yes,None
+Id262,37.525,9.03,yes,No,No,2,No,Moderate
+Id263,34.5,4.07,yes,No,No,No major surgery,yes,None
+Id264,28.16,5.77,No,No,No,2,yes,Moderate
+Id265,30.02,5.98,No,No,Yes,1,yes,Short
+Id266,37.82,6.01,No,No,No,No major surgery,yes,None
+Id267,33.14,5.67,yes,No,No,No major surgery,yes,None
+Id268,25.14,6.02,yes,No,Yes,1,yes,Short
+Id269,20.18,11.19,No,No,No,No major surgery,yes,None
+Id270,44.36,5.11,No,No,No,No major surgery,yes,None
+Id271,23.82,10.85,yes,No,No,No major surgery,yes,None
+Id272,45,5.24,yes,No,No,1,yes,Short
+Id273,26.62,10.08,No,No,No,No major surgery,yes,None
+Id274,32.67,10.97,yes,No,No,No major surgery,yes,None
+Id275,44.44,4.9,yes,No,No,1,yes,Short
+Id276,28.31,5.33,No,No,No,No major surgery,yes,None
+Id277,25.05,4.61,No,No,No,2,yes,Moderate
+Id278,28.34,8.18,No,No,No,No major surgery,yes,None
+Id279,17.765,5.62,No,No,No,No major surgery,yes,None
+Id280,36.12,5.82,No,No,No,No major surgery,yes,None
+Id281,23.19,7.66,No,No,No,No major surgery,yes,None
+Id282,35.99,4.23,No,No,No,No major surgery,yes,None
+Id283,30.25,5.58,No,No,Yes,1,yes,Short
+Id284,26.24,6.26,yes,No,No,No major surgery,yes,None
+Id285,31.36,10.6,yes,No,No,No major surgery,yes,None
+Id286,25.69,4.78,yes,No,No,No major surgery,yes,None
+Id287,25.46,6.03,No,No,No,2,yes,Moderate
+Id288,31.83,11.55,yes,No,No,1,yes,Short
+Id289,24.43,7.59,yes,No,No,1,yes,Short
+Id290,41.9,4.26,No,No,No,No major surgery,yes,None
+Id291,22.88,5.9,yes,No,Yes,1,yes,Short
+Id292,29.735,7.79,No,No,No,No major surgery,No,None
+Id293,40.74,5.28,No,No,Yes,1,yes,Short
+Id294,24.14,5.87,No,No,No,2,yes,Moderate
+Id295,25.15,9.08,yes,No,No,1,yes,Short
+Id296,28.71,5.2,No,No,No,1,yes,Short
+Id297,23,5.48,No,No,No,No major surgery,yes,None
+Id298,36.86,11.95,No,No,No,No major surgery,No,None
+Id299,24.25,8.7,yes,No,No,1,yes,Short
+Id300,23.85,7.84,No,No,No,No major surgery,yes,None
+Id301,40.02,5.19,yes,No,No,1,yes,Short
+Id302,19.17,8.41,No,No,No,No major surgery,yes,None
+Id303,43.53,5.86,yes,yes,No,2,yes,Moderate
+Id304,46.06,4.18,No,yes,No,1,yes,Short
+Id305,29.92,11.99,yes,No,No,2,yes,Moderate
+Id306,28.46,4.85,yes,No,No,1,yes,Short
+Id307,24.56,6.18,yes,No,Yes,1,yes,Short
+Id308,41.19,6.37,No,No,No,No major surgery,yes,None
+Id309,18.63,9.81,yes,No,No,2,yes,Moderate
+Id310,26.26,11.8,yes,No,No,1,yes,Short
+Id311,22.37,5.86,yes,No,Yes,1,yes,Short
+Id312,39.62,4.28,No,No,No,1,yes,Short
+Id313,18.33,4.16,yes,No,No,No major surgery,yes,None
+Id314,17.11,4.98,yes,No,Yes,1,yes,Short
+Id315,43.5,6.38,No,yes,No,1,yes,Short
+Id316,25.365,5.19,No,No,No,2,No,Moderate
+Id317,28.595,10.21,No,No,No,No major surgery,No,None
+Id318,29.83,9.7,yes,No,Yes,1,yes,Short
+Id319,24.7,10.25,No,No,No,3,No,Extended
+Id320,17.94,9.77,No,No,No,No major surgery,yes,None
+Id321,21.08,4.83,No,No,Yes,1,yes,Short
+Id322,37.715,10.86,yes,No,No,No major surgery,No,None
+Id323,22.39,9.53,yes,No,No,No major surgery,yes,None
+Id324,28.78,5.68,No,No,No,No major surgery,yes,None
+Id325,18.33,5.57,yes,No,No,No major surgery,yes,None
+Id326,26.39,4.58,yes,No,No,1,yes,Short
+Id327,19.26,8.96,yes,No,No,1,yes,Short
+Id328,26.92,6.09,No,No,No,No major surgery,yes,None
+Id329,19.73,4.36,No,No,No,No major surgery,yes,None
+Id330,23.56,11.74,yes,No,No,No major surgery,yes,None
+Id331,37.67,5.89,No,No,No,1,yes,Short
+Id332,18.73,10.64,No,No,No,2,yes,Moderate
+Id333,33.09,6.06,No,No,Yes,1,yes,Short
+Id334,18.33,7.46,yes,No,No,1,yes,Short
+Id335,27.74,4.68,yes,No,No,2,yes,Moderate
+Id336,24.2,6.15,No,No,No,1,yes,Short
+Id337,22.03,4.28,yes,No,No,No major surgery,yes,None
+Id338,26.885,9.86,No,No,No,3,yes,Extended
+Id339,16.36,11.19,No,No,No,No major surgery,yes,None
+Id340,32.3,4.89,yes,No,Yes,1,No,Short
+Id341,16.05,4.35,yes,No,No,No major surgery,yes,None
+Id342,29.07,8.66,yes,No,No,2,yes,Moderate
+Id343,17.43,8.64,No,No,No,No major surgery,yes,None
+Id344,19.33,4.27,No,No,No,No major surgery,yes,None
+Id345,30.52,4.21,No,No,No,1,yes,Short
+Id346,39.21,5.04,No,No,Yes,1,yes,Short
+Id347,26.98,5.21,yes,No,No,2,yes,Moderate
+Id348,25.84,8.83,No,No,No,No major surgery,No,None
+Id349,28.31,8.47,yes,No,No,2,yes,Moderate
+Id350,23.94,4.2,No,No,No,No major surgery,yes,None
+Id351,20.03,6.14,yes,No,No,No major surgery,yes,None
+Id352,41.42,6.07,No,No,No,No major surgery,No,None
+Id353,36.67,10.21,No,No,No,No major surgery,No,None
+Id354,27.645,4.69,No,No,No,No major surgery,No,None
+Id355,22.72,5.71,No,No,No,No major surgery,yes,None
+Id356,36.52,9.07,yes,No,Yes,1,No,Short
+Id357,33.96,4.99,No,No,No,No major surgery,yes,None
+Id358,26.695,8.31,No,No,No,No major surgery,yes,None
+Id359,18.45,5.07,yes,No,No,No major surgery,yes,None
+Id360,33.18,4.79,No,No,No,No major surgery,yes,None
+Id361,36.1,11.39,yes,No,No,2,No,Moderate
+Id362,22.77,6,No,No,No,No major surgery,yes,None
+Id363,21.24,5.13,No,No,No,No major surgery,yes,None
+Id364,17.6,5.26,yes,No,No,No major surgery,yes,None
+Id365,26.29,6.84,No,No,No,No major surgery,yes,None
+Id366,35.31,9.04,No,No,No,No major surgery,No,None
+Id367,27.04,4.1,No,No,No,1,yes,Short
+Id368,30.23,4.23,yes,No,Yes,1,yes,Short
+Id369,30.6,6.48,yes,No,Yes,1,yes,Short
+Id370,26.8,5.53,No,No,No,1,yes,Short
+Id371,16.86,4.07,yes,No,No,No major surgery,yes,None
+Id372,16.3,5.51,No,No,No,1,yes,Short
+Id373,29.81,11.66,No,No,No,No major surgery,yes,None
+Id374,16.33,7.26,yes,No,No,No major surgery,yes,None
+Id375,16.37,4.79,yes,No,No,No major surgery,yes,None
+Id376,22.42,4.68,yes,No,No,1,No,Short
+Id377,31.35,4.33,yes,No,Yes,1,No,Short
+Id378,31.9,11.89,No,No,No,No major surgery,No,None
+Id379,30.6,5.24,No,No,No,No major surgery,yes,None
+Id380,28.975,7.63,No,No,No,No major surgery,yes,None
+Id381,24.86,8.92,yes,No,No,2,No,Moderate
+Id382,19.54,5.37,No,No,No,No major surgery,yes,None
+Id383,26.74,4.31,No,No,No,No major surgery,yes,None
+Id384,22.99,10.46,No,No,No,3,yes,Extended
+Id385,31.46,7.39,No,No,No,No major surgery,No,None
+Id386,30.86,6.18,No,yes,No,2,yes,Moderate
+Id387,31.96,8.86,No,No,No,No major surgery,yes,None
+Id388,23.76,10.96,No,No,No,3,yes,Extended
+Id389,19.38,6.28,No,No,No,No major surgery,yes,None
+Id390,16.21,6.29,yes,No,No,1,yes,Short
+Id391,32.54,4.02,No,yes,No,1,yes,Short
+Id392,36.765,11.95,yes,No,No,2,No,Moderate
+Id393,35.91,8.71,No,No,No,No major surgery,No,None
+Id394,32.06,4.67,No,yes,No,1,yes,Short
+Id395,24.1,11.14,yes,No,No,1,No,Short
+Id396,27.1,9.05,No,No,No,2,No,Moderate
+Id397,24.42,11.31,No,No,No,No major surgery,yes,None
+Id398,26.695,4.68,yes,No,No,2,yes,Moderate
+Id399,27.79,6.05,yes,yes,No,1,yes,Short
+Id400,32.68,4.68,yes,No,No,No major surgery,No,None
+Id401,26.4,9.5,yes,No,No,2,No,Moderate
+Id402,23.655,10.84,yes,No,Yes,1,yes,Short
+Id403,27.36,5.88,No,No,No,2,No,Moderate
+Id404,27.82,5.24,yes,No,No,No major surgery,yes,None
+Id405,25.46,11.75,No,No,No,No major surgery,No,None
+Id406,25.1,6.97,No,No,No,No major surgery,yes,None
+Id407,32.11,4.76,No,No,No,2,No,Moderate
+Id408,29.8,8.24,yes,No,No,1,yes,Short
+Id409,24.01,4.76,No,No,No,1,yes,Short
+Id410,23.21,6.03,No,No,No,1,No,Short
+Id411,21.2,4.07,yes,No,No,1,yes,Short
+Id412,28.215,8.26,yes,No,No,1,yes,Short
+Id413,38.095,4.76,No,No,No,1,No,Short
+Id414,22.61,6.13,yes,No,Yes,1,yes,Short
+Id415,24.32,10.47,yes,No,No,2,yes,Moderate
+Id416,20.96,4.04,yes,No,No,1,yes,Short
+Id417,19.68,5.74,No,No,No,No major surgery,yes,None
+Id418,18.1,6.33,No,No,No,1,yes,Short
+Id419,29.64,4.28,yes,No,No,No major surgery,No,None
+Id420,25.3,9.47,yes,No,No,2,yes,Moderate
+Id421,27.6,4.85,yes,No,No,No major surgery,No,None
+Id422,27.645,11.03,yes,No,No,1,yes,Short
+Id423,27.6,5.22,No,No,No,2,yes,Moderate
+Id424,25.08,9.52,yes,No,No,2,No,Moderate
+Id425,30.02,11.09,No,No,No,No major surgery,No,None
+Id426,27.36,9.45,yes,No,No,2,yes,Moderate
+Id427,22.2,5.51,No,No,No,No major surgery,yes,None
+Id428,25.71,4.18,No,yes,No,1,yes,Short
+Id429,41.91,5.98,yes,No,No,1,No,Short
+Id430,25.85,10.16,No,No,No,No major surgery,yes,None
+Id431,23.845,11.71,No,No,No,2,yes,Moderate
+Id432,30.59,5.23,No,No,Yes,1,No,Short
+Id433,24.795,6.85,No,No,No,No major surgery,yes,None
+Id434,24.13,7.05,yes,No,No,2,yes,Moderate
+Id435,25.84,11.64,No,No,No,2,yes,Moderate
+Id436,28,10.52,No,No,No,No major surgery,yes,None
+Id437,34.1,4.01,yes,No,Yes,1,No,Short
+Id438,26.125,8.56,yes,No,No,1,yes,Short
+Id439,25.6,10.5,No,No,No,2,yes,Moderate
+Id440,24.32,6.39,No,No,No,No major surgery,No,None
+Id441,22.88,5.71,yes,No,Yes,1,yes,Short
+Id442,24.985,4.43,yes,No,Yes,1,No,Short
+Id443,33.1,5.52,No,No,Yes,1,No,Short
+Id444,27.83,9.2,yes,No,No,1,yes,Short
+Id445,30.875,10.97,yes,No,No,2,No,Moderate
+Id446,27.265,4.25,No,No,Yes,1,No,Short
+Id447,26.7,5.23,No,No,Yes,1,yes,Short
+Id448,29.925,5.96,yes,No,Yes,1,yes,Short
+Id449,19.95,4.29,yes,No,No,2,yes,Moderate
+Id450,24.225,4.09,No,No,No,No major surgery,No,None
+Id451,28.12,4.88,No,No,No,No major surgery,yes,None
+Id452,23.21,6.76,No,No,No,No major surgery,yes,None
+Id453,23.98,10.67,No,No,No,No major surgery,No,None
+Id454,30,6.21,No,No,No,No major surgery,yes,None
+Id455,17.35,5.03,yes,No,No,No major surgery,yes,None
+Id456,22.705,5.27,No,No,No,No major surgery,No,None
+Id457,25.41,10.53,yes,No,No,1,yes,Short
+Id458,18.23,5.78,No,No,Yes,1,yes,Short
+Id459,24.7,4.36,No,No,Yes,1,yes,Short
+Id460,37.4,9.72,yes,No,Yes,1,No,Short
+Id461,26.885,5.18,No,No,Yes,1,yes,Short
+Id462,25.27,5.29,No,No,Yes,1,yes,Short
+Id463,23.655,4.86,yes,No,No,No major surgery,yes,None
+Id464,55.05,7.66,No,No,No,No major surgery,No,None
+Id465,24.89,6.1,yes,No,Yes,1,yes,Short
+Id466,18.715,4.44,No,No,No,No major surgery,No,None
+Id467,28.12,6.15,No,No,No,No major surgery,yes,None
+Id468,26.6,4.53,No,No,No,No major surgery,yes,None
+Id469,30.115,5.48,No,yes,No,1,No,Short
+Id470,24.605,5.48,No,No,No,No major surgery,yes,None
+Id471,29.6,8.1,No,No,No,No major surgery,No,None
+Id472,24.42,7.16,No,No,No,No major surgery,yes,None
+Id473,20.9,4.55,yes,No,Yes,1,yes,Short
+Id474,22.895,6.03,No,No,No,No major surgery,yes,None
+Id475,28.3,5.47,yes,No,Yes,1,yes,Short
+Id476,54.3,4.15,yes,No,No,1,No,Short
+Id477,33.345,11.32,yes,No,No,1,No,Short
+Id478,33,9.51,yes,No,No,No major surgery,No,None
+Id479,28.025,7.67,yes,No,No,1,yes,Short
+Id480,28.69,6.23,No,No,No,1,yes,Short
+Id481,40.28,8.9,No,No,No,No major surgery,No,None
+Id482,37.3,7.79,yes,No,No,No major surgery,No,None
+Id483,54.47,4.49,yes,No,No,2,No,Moderate
+Id484,38.06,5.24,yes,No,Yes,1,No,Short
+Id485,51.47,9.6,No,No,No,No major surgery,No,None
+Id486,29.8,5.78,yes,No,No,No major surgery,No,None
+Id487,49.77,7.02,No,No,No,No major surgery,No,None
+Id488,25.555,4.09,yes,No,No,No major surgery,yes,None
+Id489,29.64,4.93,No,No,Yes,1,No,Short
+Id490,53.93,5.34,yes,No,No,2,No,Moderate
+Id491,28.025,5.65,No,No,No,1,yes,Short
+Id492,27.5,4.49,No,No,No,No major surgery,No,None
+Id493,21.8,10.55,No,No,No,No major surgery,yes,None
+Id494,26.41,4.92,yes,No,Yes,1,yes,Short
+Id495,27.835,5.9,yes,No,No,1,yes,Short
+Id496,51.74,4.98,yes,No,No,2,No,Moderate
+Id497,23.37,5.8,No,No,No,No major surgery,yes,None
+Id498,29.7,6.21,yes,No,Yes,1,yes,Short
+Id499,20.045,6.17,No,No,Yes,1,yes,Short
+Id500,27.83,5.36,No,No,No,2,No,Moderate
+Id501,28.93,5.2,No,No,No,No major surgery,yes,None
+Id502,33.82,5.42,No,No,No,No major surgery,No,None
+Id503,20.235,6.84,No,No,No,No major surgery,yes,None
+Id504,49.2,10.9,yes,No,Yes,1,No,Short
+Id505,26.4,4.87,yes,No,No,No major surgery,yes,None
+Id506,28.38,6.07,No,No,No,1,yes,Short
+Id507,24.64,4.33,No,No,No,No major surgery,yes,None
+Id508,39.71,5.83,No,No,No,1,No,Short
+Id509,22.22,5.5,No,No,No,No major surgery,yes,None
+Id510,33.345,4.79,No,No,Yes,1,No,Short
+Id511,24.42,5.81,No,No,No,1,yes,Short
+Id512,29.81,5.58,No,No,No,No major surgery,yes,None
+Id513,51.18,4.4,yes,No,No,2,No,Moderate
+Id514,51.37,8.18,yes,No,No,No major surgery,No,None
+Id515,36.19,5.52,yes,No,No,No major surgery,No,None
+Id516,25.9,4.84,No,No,No,No major surgery,yes,None
+Id517,35.72,4.08,No,No,Yes,1,No,Short
+Id518,27.94,4.48,No,No,Yes,1,yes,Short
+Id519,27.1,5.73,No,No,No,No major surgery,yes,None
+Id520,18.3,5.46,yes,No,Yes,1,yes,Short
+Id521,25.3,5.02,yes,No,No,1,yes,Short
+Id522,38.83,6.36,No,No,No,1,No,Short
+Id523,27.6,5.36,No,No,No,1,No,Short
+Id524,46.4,8.37,yes,No,Yes,1,No,Short
+Id525,51.92,5.18,yes,No,Yes,1,No,Short
+Id526,32.395,5.68,yes,No,No,1,No,Short
+Id527,46.19,7.31,yes,No,Yes,1,No,Short
+Id528,27.93,4.67,No,No,Yes,1,No,Short
+Id529,45.62,6.87,No,No,No,No major surgery,No,None
+Id530,35.31,5.87,No,No,Yes,1,No,Short
+Id531,30.4,4.07,yes,No,No,1,No,Short
+Id532,20.13,6.47,No,No,Yes,1,yes,Short
+Id533,23.655,5.14,No,No,No,1,yes,Short
+Id534,49.05,9.77,yes,No,No,No major surgery,No,None
+Id535,51.94,8.8,yes,No,No,2,No,Moderate
+Id536,29.83,5.84,No,No,No,1,yes,Short
+Id537,22.6,10.43,yes,No,No,1,yes,Short
+Id538,46.69,4.25,yes,No,No,1,No,Short
+Id539,28.49,4.89,No,No,No,No major surgery,yes,None
+Id540,28.5,5.55,yes,No,No,1,yes,Short
+Id541,24.4,4.52,No,No,No,1,yes,Short
+Id542,29.15,4.45,yes,No,No,1,yes,Short
+Id543,27.28,4.72,No,yes,No,1,yes,Short
+Id544,32.23,4.65,yes,No,Yes,1,No,Short
+Id545,44.2,11.34,yes,No,Yes,1,No,Short
+Id546,29.735,4.53,No,No,Yes,1,No,Short
+Id547,28.31,6.35,No,No,No,No major surgery,yes,None
+Id548,46.62,8.51,No,No,No,No major surgery,No,None
+Id549,51.75,8.59,yes,No,No,1,No,Short
+Id550,25.7,4.13,yes,No,No,No major surgery,yes,None
+Id551,31.79,4.55,No,No,No,No major surgery,No,None
+Id552,24.795,4.52,No,No,No,No major surgery,yes,None
+Id553,53.98,5.07,No,No,Yes,1,No,Short
+Id554,41.325,4.04,yes,No,Yes,1,No,Short
+Id555,51.65,5.3,yes,No,No,No major surgery,No,None
+Id556,44.52,8.64,yes,No,Yes,1,No,Short
+Id557,53.29,4.03,No,No,Yes,1,No,Short
+Id558,46.63,4.26,yes,No,No,2,No,Moderate
+Id559,28.88,5.35,No,No,Yes,1,yes,Short
+Id560,23.98,4.9,No,No,No,No major surgery,yes,None
+Id561,23.65,4.5,No,No,No,No major surgery,No,None
+Id562,49.09,8.38,yes,No,No,2,No,Moderate
+Id563,28.025,7.03,No,No,No,No major surgery,yes,None
+Id564,43.32,8.75,yes,No,Yes,1,No,Short
+Id565,45.92,9.51,No,No,No,No major surgery,No,None
+Id566,44.03,9.36,No,No,No,No major surgery,No,None
+Id567,24.6,4.81,No,No,No,No major surgery,yes,None
+Id568,49.15,8.08,No,No,No,No major surgery,No,None
+Id569,28.31,6.29,No,No,Yes,1,yes,Short
+Id570,22.99,6.29,No,No,No,1,yes,Short
+Id571,29.07,5.12,No,No,Yes,1,yes,Short
+Id572,42.02,9.95,yes,No,Yes,1,No,Short
+Id573,49.07,9.08,yes,No,No,1,No,Short
+Id574,19.8,4.82,No,No,No,No major surgery,yes,None
+Id575,27.36,4.65,No,yes,No,1,yes,Short
+Id576,42.95,5.16,yes,No,No,1,No,Short
+Id577,42.66,10.44,No,No,No,No major surgery,No,None
+Id578,33.63,5.69,No,No,No,1,No,Short
+Id579,26.84,6.5,No,No,No,No major surgery,yes,None
+Id580,28.3,5.73,No,No,Yes,1,yes,Short
+Id581,27.06,5.74,yes,No,No,No major surgery,yes,None
+Id582,47.13,8.7,No,No,No,No major surgery,No,None
+Id583,51.72,5.09,No,No,No,No major surgery,No,None
+Id584,48.59,5.57,No,No,No,No major surgery,No,None
+Id585,45.18,10.87,No,No,No,No major surgery,No,None
+Id586,27.9,6.02,No,No,Yes,1,yes,Short
+Id587,51.33,7,No,No,No,No major surgery,No,None
+Id588,30.59,5.56,yes,No,No,1,No,Short
+Id589,39.23,8.45,No,No,No,No major surgery,No,None
+Id590,19.095,6.19,No,No,No,No major surgery,yes,None
+Id591,49.72,7.71,No,No,No,No major surgery,No,None
+Id592,21.755,4.63,No,No,Yes,1,yes,Short
+Id593,48.39,4.61,No,No,No,No major surgery,No,None
+Id594,47.15,9.53,yes,No,No,1,No,Short
+Id595,47.59,11.43,yes,No,No,2,No,Moderate
+Id596,39.81,7.65,yes,No,Yes,1,No,Short
+Id597,31.02,5.87,yes,No,No,No major surgery,No,None
+Id598,24.75,4.36,yes,No,No,1,yes,Short
+Id599,30.115,10.12,No,No,No,3,No,Extended
+Id600,26.03,4.01,No,No,Yes,1,yes,Short
+Id601,20.045,4.77,yes,No,No,1,yes,Short
+Id602,40.24,6.83,No,No,No,No major surgery,No,None
+Id603,43.15,6.14,yes,No,Yes,1,No,Short
+Id604,27.7,5.6,No,No,Yes,1,yes,Short
+Id605,45.68,4.8,No,No,No,2,No,Moderate
+Id606,27.3,11.89,No,No,No,No major surgery,yes,None
+Id607,54.45,4.73,yes,No,No,1,No,Short
+Id608,54.43,4.61,yes,No,No,1,No,Short
+Id609,48.01,7.3,No,No,No,No major surgery,No,None
+Id610,48.32,5.88,No,No,No,No major surgery,No,None
+Id611,22.895,4.06,No,No,Yes,1,yes,Short
+Id612,54.85,4.9,No,No,No,1,No,Short
+Id613,21.85,5.52,No,No,Yes,1,yes,Short
+Id614,51.86,5.2,yes,No,No,No major surgery,No,None
+Id615,39.05,7.59,No,No,No,3,No,Extended
+Id616,31.825,8.28,No,No,No,3,No,Extended
+Id617,46.43,6.72,No,No,No,No major surgery,No,None
+Id618,53.63,5.47,yes,No,No,1,No,Short
+Id619,48.7,4.71,No,No,No,No major surgery,No,None
+Id620,48.81,5.49,No,No,No,No major surgery,No,None
+Id621,47.53,4.72,No,No,No,No major surgery,No,None
+Id622,36.85,6.7,No,No,No,No major surgery,No,None
+Id623,29.3,5.5,No,No,No,No major surgery,No,None
+Id624,19.3,4.46,No,No,No,1,yes,Short
+Id625,24.13,5.29,yes,No,Yes,1,yes,Short
+Id626,46.7,10.99,No,No,No,No major surgery,No,None
+Id627,45.27,5.2,yes,No,No,No major surgery,No,None
+Id628,44.29,9.66,No,No,No,2,No,Moderate
+Id629,54.59,4.22,yes,No,No,1,No,Short
+Id630,32.965,11.78,No,No,No,No major surgery,No,None
+Id631,38.05,9.62,No,No,No,No major surgery,No,None
+Id632,46.14,10.78,No,No,No,No major surgery,No,None
+Id633,41.325,5.11,yes,No,No,2,No,Moderate
+Id634,44.64,7.18,No,No,No,No major surgery,No,None
+Id635,25.175,4.96,No,yes,No,1,No,Short
+Id636,43.11,4.67,yes,No,No,No major surgery,No,None
+Id637,53.32,5.06,No,No,No,No major surgery,No,None
+Id638,38.04,5.02,yes,No,No,1,No,Short
+Id639,37.9,7.76,No,No,No,No major surgery,No,None
+Id640,39.6,9.32,No,No,No,No major surgery,No,None
+Id641,50.92,5.31,yes,No,No,1,No,Short
+Id642,21.85,5.56,yes,No,No,No major surgery,yes,None
+Id643,36.08,7.11,yes,No,Yes,1,No,Short
+Id644,40.44,5.13,yes,No,Yes,1,No,Short
+Id645,38.095,10.2,No,No,No,No major surgery,No,None
+Id646,44.95,10.4,No,No,No,No major surgery,No,None
+Id647,35.54,10.67,No,No,No,No major surgery,No,None
+Id648,39.8,4.65,yes,No,No,2,No,Moderate
+Id649,33.66,5.65,yes,No,No,2,No,Moderate
+Id650,35.5,11.97,No,No,No,No major surgery,No,None
+Id651,41.63,6.71,No,No,No,No major surgery,No,None
+Id652,46.49,11.92,No,No,No,No major surgery,No,None
+Id653,43.29,5.35,No,No,No,2,No,Moderate
+Id654,43.08,8.96,yes,No,No,1,No,Short
+Id655,39.07,11.93,No,No,No,No major surgery,No,None
+Id656,41.3,9.59,No,No,No,No major surgery,No,None
+Id657,42.95,11.88,yes,No,No,2,No,Moderate
+Id658,46.96,4.64,No,No,Yes,1,No,Short
+Id659,30.495,9.53,No,No,No,No major surgery,No,None
+Id660,17.955,5.29,yes,No,No,1,yes,Short
+Id661,25.6,10.95,No,No,No,3,No,Extended
+Id662,34.21,9.17,No,No,No,No major surgery,No,None
+Id663,39.74,7.39,No,No,No,No major surgery,No,None
+Id664,49.53,9.13,yes,No,No,No major surgery,No,None
+Id665,39.33,10.4,No,No,No,3,No,Extended
+Id666,39.98,9.46,yes,No,No,2,No,Moderate
+Id667,46.51,8.69,yes,No,No,No major surgery,No,None
+Id668,43.58,4.23,No,No,Yes,1,No,Short
+Id669,42.28,9.16,yes,No,No,1,No,Short
+Id670,35.52,8.26,No,No,No,No major surgery,No,None
+Id671,33.6,11.25,No,No,No,No major surgery,No,None
+Id672,22.42,6.74,No,No,No,No major surgery,yes,None
+Id673,46.86,4.87,No,No,No,No major surgery,No,None
+Id674,32.965,6.68,No,No,No,3,No,Extended
+Id675,39.34,5.02,yes,No,Yes,1,No,Short
+Id676,47,10.64,yes,No,No,No major surgery,No,None
+Id677,36.71,8.74,yes,No,No,No major surgery,No,None
+Id678,53.48,5.64,No,No,No,No major surgery,No,None
+Id679,35.5,10.37,No,No,No,No major surgery,No,None
+Id680,36.98,9.56,yes,No,No,No major surgery,No,None
+Id681,32.395,8.23,yes,No,Yes,1,No,Short
+Id682,32.73,7.03,No,No,No,No major surgery,No,None
+Id683,20.52,5.45,No,No,No,1,yes,Short
+Id684,51.72,5.76,No,No,No,No major surgery,No,None
+Id685,50.2,5.4,No,No,No,No major surgery,No,None
+Id686,25.52,6.35,No,No,Yes,1,No,Short
+Id687,35.2,6.26,yes,No,No,2,No,Moderate
+Id688,41.26,5.97,yes,No,No,No major surgery,No,None
+Id689,17.195,5.29,yes,No,No,No major surgery,yes,None
+Id690,23.085,4.27,yes,No,No,2,No,Moderate
+Id691,21.66,5.2,yes,No,No,2,No,Moderate
+Id692,36.47,8.23,yes,No,No,No major surgery,No,None
+Id693,36.08,10.33,yes,No,No,No major surgery,No,None
+Id694,23.18,6.13,No,No,No,No major surgery,No,None
+Id695,39.16,8.08,No,No,No,3,No,Extended
+Id696,38.19,10.49,No,No,No,3,No,Extended
+Id697,26.41,8.11,No,No,No,3,No,Extended
+Id698,28.785,6.6,No,No,No,No major surgery,No,None
+Id699,26.695,10.14,yes,No,Yes,1,No,Short
+Id700,32.8,6.06,yes,No,No,1,No,Short
+Id701,35.87,9.91,yes,No,No,No major surgery,No,None
+Id702,21.66,4.14,yes,No,No,2,No,Moderate
+Id703,37.72,4.38,yes,No,Yes,1,No,Short
+Id704,39.7,9.83,No,No,No,3,No,Extended
+Id705,35.97,11.08,No,No,No,3,No,Extended
+Id706,37.85,11.01,No,No,No,No major surgery,No,None
+Id707,21.66,4.37,No,yes,No,1,yes,Short
+Id708,39.37,5.91,No,No,No,2,No,Moderate
+Id709,40.88,7.65,No,No,No,No major surgery,No,None
+Id710,26.22,5.37,yes,No,No,2,No,Moderate
+Id711,25.08,5.75,yes,No,No,2,No,Moderate
+Id712,39.1,6.79,yes,No,No,2,No,Moderate
+Id713,37.905,7.03,No,No,No,3,No,Extended
+Id714,43.35,5.41,yes,No,Yes,1,No,Short
+Id715,36.15,8.05,No,No,No,No major surgery,No,None
+Id716,44.98,5.94,No,No,No,1,No,Short
+Id717,38.28,5.51,No,yes,No,1,No,Short
+Id718,32.3,6.55,yes,No,No,2,No,Moderate
+Id719,39.51,5.79,yes,No,No,No major surgery,No,None
+Id720,50.46,4.56,No,No,No,No major surgery,No,None
+Id721,31.73,7,No,No,No,No major surgery,No,None
+Id722,32.1,6.57,yes,No,Yes,1,No,Short
+Id723,27.83,11.61,yes,No,Yes,1,No,Short
+Id724,27.72,8.16,yes,No,Yes,1,No,Short
+Id725,36.765,4.48,yes,No,No,2,No,Moderate
+Id726,48.36,4.08,No,No,No,No major surgery,No,None
+Id727,31.445,4.4,yes,No,No,2,No,Moderate
+Id728,27.55,9.02,No,No,No,No major surgery,No,None
+Id729,33.11,8.06,No,No,No,No major surgery,No,None
+Id730,36.85,6.21,yes,No,No,2,No,Moderate
+Id731,36.3,5.79,yes,No,No,2,No,Moderate
+Id732,45.34,5.69,yes,No,No,No major surgery,No,None
+Id733,31.8,5.36,yes,No,No,2,No,Moderate
+Id734,41.02,11.37,No,No,No,No major surgery,No,None
+Id735,32.68,11.87,No,No,No,No major surgery,No,None
+Id736,21.7,4.9,No,No,Yes,1,yes,Short
+Id737,40.48,6.7,No,No,No,3,No,Extended
+Id738,34.5,10.3,No,No,No,3,No,Extended
+Id739,45.9,11.14,yes,No,No,1,No,Short
+Id740,33.48,4.74,yes,No,No,2,No,Moderate
+Id741,28.31,5.96,yes,No,No,2,No,Moderate
+Id742,21.565,4.95,No,yes,No,1,yes,Short
+Id743,35.59,5.21,yes,No,Yes,1,No,Short
+Id744,43.44,4.86,yes,No,No,No major surgery,No,None
+Id745,21.755,7.79,yes,No,No,No major surgery,No,None
+Id746,44.55,7.12,yes,No,No,1,No,Short
+Id747,43.32,4.67,yes,No,No,No major surgery,No,None
+Id748,31.23,9.12,yes,No,Yes,1,No,Short
+Id749,42.81,4.15,No,No,No,1,No,Short
+Id750,35.91,6.72,yes,No,No,2,No,Moderate
+Id751,36.65,5.01,yes,No,Yes,1,No,Short
+Id752,22.04,10.9,yes,No,No,2,No,Moderate
+Id753,31.825,5.52,yes,No,No,1,No,Short
+Id754,53.58,4.55,No,No,No,1,No,Short
+Id755,34.3,11.76,No,No,No,No major surgery,No,None
+Id756,32.11,7.06,No,No,No,No major surgery,No,None
+Id757,31.78,11.35,yes,No,Yes,1,No,Short
+Id758,46.89,5.52,No,No,No,No major surgery,No,None
+Id759,39.35,7.86,yes,No,No,1,No,Short
+Id760,39.2,11.38,No,No,No,No major surgery,No,None
+Id761,39.16,10.48,No,No,No,No major surgery,No,None
+Id762,44.1,5.04,yes,No,No,No major surgery,No,None
+Id763,33.2,9.06,No,No,No,No major surgery,No,None
+Id764,29.92,11.07,No,No,No,No major surgery,No,None
+Id765,25,10.45,No,No,No,No major surgery,No,None
+Id766,38.87,8.63,yes,No,No,1,No,Short
+Id767,32.3,5.28,yes,No,No,2,No,Moderate
+Id768,31.16,7.49,yes,No,No,2,No,Moderate
+Id769,54.59,4.27,No,No,No,No major surgery,No,None
+Id770,21.09,9.22,yes,No,No,2,No,Moderate
+Id771,52.41,5.99,No,No,No,1,No,Short
+Id772,41.47,5.86,yes,No,No,2,No,Moderate
+Id773,33.1,5.19,yes,No,No,2,No,Moderate
+Id774,30.8,4.37,yes,No,No,2,No,Moderate
+Id775,42.06,5.32,No,No,No,1,No,Short
+Id776,39.27,5.64,No,No,Yes,1,No,Short
+Id777,30.71,5.59,yes,No,No,1,No,Short
+Id778,47.19,5.29,No,No,No,No major surgery,No,None
+Id779,30.02,6.65,No,No,No,No major surgery,No,None
+Id780,37.91,5.68,yes,No,No,No major surgery,No,None
+Id781,54.61,4.49,No,No,No,No major surgery,No,None
+Id782,36.005,6.9,No,No,No,No major surgery,No,None
+Id783,28.7,11.52,No,No,No,No major surgery,No,None
+Id784,34.295,11.24,No,No,No,No major surgery,No,None
+Id785,27.55,10.98,No,No,No,No major surgery,No,None
+Id786,40.7,5.42,No,No,No,No major surgery,No,None
+Id787,18.335,10.97,No,No,No,No major surgery,No,None
+Id788,33.915,9.56,yes,No,No,2,No,Moderate
+Id789,33.535,9.4,yes,No,No,2,No,Moderate
+Id790,23.655,8.48,yes,No,No,2,No,Moderate
+Id791,28,5.57,No,No,No,No major surgery,No,None
+Id792,30.23,6.94,yes,No,Yes,1,No,Short
+Id793,51.14,4.05,No,No,No,1,No,Short
+Id794,24.32,10.22,No,No,No,No major surgery,No,None
+Id795,38.06,9.24,No,No,No,No major surgery,No,None
+Id796,37.7,8.6,No,No,No,No major surgery,No,None
+Id797,44,9.32,yes,No,No,2,No,Moderate
+Id798,41.45,6.12,yes,No,No,No major surgery,No,None
+Id799,25.365,9.19,yes,No,No,No major surgery,No,None
+Id800,34.56,5.84,yes,No,Yes,1,No,Short
+Id801,28.2,7.19,yes,No,No,2,No,Moderate
+Id802,30.43,9.39,No,No,No,No major surgery,No,None
+Id803,32.395,4.27,yes,No,No,1,No,Short
+Id804,24.035,11.71,No,No,No,No major surgery,No,None
+Id805,37.12,5.29,No,No,No,2,No,Moderate
+Id806,34.84,6,yes,No,Yes,1,No,Short
+Id807,29.53,10.64,No,No,No,No major surgery,No,None
+Id808,42.51,8.21,yes,No,No,No major surgery,No,None
+Id809,38.14,5.58,No,No,Yes,1,No,Short
+Id810,39.93,8.75,No,No,No,No major surgery,No,None
+Id811,38.83,11.86,No,No,No,No major surgery,No,None
+Id812,37.4,11.46,No,No,No,No major surgery,No,None
+Id813,21.4,9.03,No,No,No,No major surgery,No,None
+Id814,38.38,8.26,yes,No,No,2,No,Moderate
+Id815,33.66,5.42,yes,No,No,2,No,Moderate
+Id816,31.79,11.33,yes,No,Yes,1,No,Short
+Id817,29.7,7.69,yes,No,Yes,1,No,Short
+Id818,25.46,8.77,yes,No,Yes,1,No,Short
+Id819,39.14,4.91,No,yes,No,1,No,Short
+Id820,41.2,4.95,No,No,No,1,No,Short
+Id821,28.81,10.8,yes,No,Yes,1,No,Short
+Id822,37.41,7.21,No,No,No,2,No,Moderate
+Id823,52.54,5.12,No,No,Yes,1,No,Short
+Id824,17.29,4.62,No,yes,No,1,yes,Short
+Id825,31.74,7.68,yes,No,No,No major surgery,No,None
+Id826,26.505,6.79,yes,No,Yes,1,No,Short
+Id827,36.48,11.09,No,No,No,No major surgery,No,None
+Id828,39.16,5.24,yes,No,Yes,1,No,Short
+Id829,28.22,7.51,yes,No,Yes,1,No,Short
+Id830,35,4.13,No,No,No,2,No,Moderate
+Id831,36.24,8.38,yes,No,No,1,No,Short
+Id832,36.955,8.07,No,No,No,No major surgery,No,None
+Id833,29.64,8.95,No,No,No,No major surgery,No,None
+Id834,42.74,6.31,yes,No,No,1,No,Short
+Id835,36.13,7.19,yes,No,No,2,No,Moderate
+Id836,31.55,6.11,yes,No,No,1,No,Short
+Id837,52.75,6.02,No,No,No,1,No,Short
+Id838,36.67,11.86,No,No,No,No major surgery,No,None
+Id839,38.06,8.25,No,No,No,No major surgery,No,None
+Id840,38,8.13,No,No,No,No major surgery,No,None
+Id841,35.1,10.1,No,No,No,No major surgery,No,None
+Id842,33.82,5.89,yes,No,No,2,No,Moderate
+Id843,37.43,4.97,No,No,No,2,No,Moderate
+Id844,30.5,9.9,No,No,No,No major surgery,No,None
+Id845,24.53,9.05,No,No,No,No major surgery,No,None
+Id846,25.74,10.93,No,No,No,No major surgery,No,None
+Id847,34.08,7.58,yes,No,No,2,No,Moderate
+Id848,31.35,11,yes,No,Yes,1,No,Short
+Id849,26.79,5.06,No,No,No,1,No,Short
+Id850,42.78,6.11,yes,No,No,1,No,Short
+Id851,46.75,6.66,yes,No,No,2,No,Moderate
+Id852,32.15,4.02,yes,No,Yes,1,No,Short
+Id853,43.4,8.81,yes,No,No,2,No,Moderate
+Id854,31.57,7.92,yes,No,No,2,No,Moderate
+Id855,24.32,7.48,No,No,No,No major surgery,No,None
+Id856,31.07,4.62,yes,No,No,2,No,Moderate
+Id857,35.815,8.47,No,No,No,No major surgery,No,None
+Id858,40.81,10.58,yes,No,No,No major surgery,No,None
+Id859,24.605,7.48,No,No,No,No major surgery,No,None
+Id860,21.47,7.82,No,No,No,No major surgery,No,None
+Id861,52.89,4.96,yes,No,No,1,No,Short
+Id862,32.965,6.15,yes,No,No,1,No,Short
+Id863,36.8,4.62,No,No,Yes,1,No,Short
+Id864,34.3,4.87,No,No,No,2,No,Moderate
+Id865,35.245,4.63,No,No,No,No major surgery,No,None
+Id866,26.23,11.93,No,No,No,No major surgery,No,None
+Id867,36.1,5.65,yes,No,No,2,No,Moderate
+Id868,37.1,11.21,yes,No,Yes,1,No,Short
+Id869,27.5,10.62,yes,No,Yes,1,No,Short
+Id870,24.7,10.7,yes,No,Yes,1,No,Short
+Id871,26.78,10.02,yes,No,Yes,1,No,Short
+Id872,45.8,4.85,No,No,No,No major surgery,No,None
+Id873,29,4.39,yes,No,No,2,No,Moderate
+Id874,33.535,8.24,yes,No,No,No major surgery,No,None
+Id875,32.775,9.77,yes,No,No,No major surgery,No,None
+Id876,37.51,5.5,yes,No,No,2,No,Moderate
+Id877,39.86,11.84,yes,No,No,1,No,Short
+Id878,42.13,4.66,No,No,No,No major surgery,No,None
+Id879,35.99,11.11,No,No,No,No major surgery,No,None
+Id880,35.2,7.72,yes,No,Yes,1,No,Short
+Id881,29.91,5.55,yes,No,No,2,No,Moderate
+Id882,36.48,5.05,yes,No,No,1,No,Short
+Id883,27.5,8.69,yes,No,Yes,1,No,Short
+Id884,33.44,5.9,yes,No,No,1,No,Short
+Id885,28.215,6.29,yes,No,No,1,No,Short
+Id886,27.17,5.84,yes,No,No,1,No,Short
+Id887,35.38,6.12,No,No,No,No major surgery,No,None
+Id888,43.48,6.24,No,No,No,No major surgery,No,None
+Id889,41.73,6.25,No,No,No,1,No,Short
+Id890,28.9,11.96,No,No,No,No major surgery,No,None
+Id891,25.74,7.69,No,No,No,No major surgery,No,None
+Id892,36.06,8.83,No,No,No,No major surgery,No,None
+Id893,43.28,4.41,No,No,No,No major surgery,No,None
+Id894,28.785,9.1,yes,No,Yes,1,No,Short
+Id895,25.46,11.52,yes,No,Yes,1,No,Short
+Id896,30.8,10.95,No,No,No,No major surgery,No,None
+Id897,28.88,11.5,No,No,No,No major surgery,No,None
+Id898,23,9.88,No,No,No,No major surgery,No,None
+Id899,38.25,6.2,No,No,No,1,No,Short
+Id900,39.25,8.41,yes,No,No,1,No,Short
+Id901,26.6,5.07,yes,No,No,2,No,Moderate
+Id902,35.7,4.06,No,No,Yes,1,No,Short
+Id903,20.1,10.52,No,No,No,No major surgery,No,None
+Id904,22.23,9.65,No,No,No,No major surgery,No,None
+Id905,36.47,6.21,No,No,No,No major surgery,No,None
+Id906,49.64,4.76,No,No,Yes,1,No,Short
+Id907,36.8,5.73,yes,No,Yes,1,No,Short
+Id908,33.88,10.78,yes,No,No,No major surgery,No,None
+Id909,32.01,5.08,yes,No,No,1,No,Short
+Id910,33.63,11.39,No,No,No,No major surgery,No,None
+Id911,34.865,5.35,yes,No,No,1,No,Short
+Id912,43.11,5.6,No,No,No,No major surgery,No,None
+Id913,30.305,4.27,yes,No,No,1,No,Short
+Id914,25.175,5.57,yes,No,No,1,No,Short
+Id915,26.8,5.68,yes,No,No,1,No,Short
+Id916,21.78,5.3,No,yes,No,1,No,Short
+Id917,30.14,9.45,yes,No,No,No major surgery,No,None
+Id918,29.7,6.79,yes,No,No,No major surgery,No,None
+Id919,32.395,11.1,yes,No,No,No major surgery,No,None
+Id920,36.64,7.26,No,No,No,No major surgery,No,None
+Id921,39.05,5.27,yes,No,No,1,No,Short
+Id922,33.1,5.46,yes,No,No,1,No,Short
+Id923,31.825,8.13,No,No,No,No major surgery,No,None
+Id924,29,4.25,yes,No,No,1,No,Short
+Id925,30.495,8.68,No,No,No,No major surgery,No,None
+Id926,25.2,6.25,yes,No,No,1,No,Short
+Id927,22.77,4.47,yes,No,No,1,No,Short
+Id928,23.18,8.31,No,No,No,No major surgery,No,None
+Id929,35.41,5.68,No,No,No,No major surgery,No,None
+Id930,32.11,4.75,yes,No,No,2,No,Moderate
+Id931,34.48,6.31,No,No,Yes,1,No,Short
+Id932,34.39,6.28,yes,No,No,1,No,Short
+Id933,26.4,9.29,yes,No,Yes,1,No,Short
+Id934,28.1,5.79,yes,No,Yes,1,No,Short
+Id935,27,4.54,yes,No,No,1,No,Short
+Id936,28.595,4.68,yes,No,No,1,No,Short
+Id937,36.8,5.88,No,No,No,1,No,Short
+Id938,23.75,5.42,yes,No,Yes,1,No,Short
+Id939,35.62,4.16,No,No,No,No major surgery,No,None
+Id940,30.69,7.05,yes,No,No,2,No,Moderate
+Id941,35.8,5.63,yes,No,No,2,No,Moderate
+Id942,28.785,4.24,yes,No,No,2,No,Moderate
+Id943,28.595,4.96,yes,No,No,2,No,Moderate
+Id944,48.75,4.34,No,No,No,No major surgery,No,None
+Id945,28.31,5.43,yes,No,No,2,No,Moderate
+Id946,38.39,8.33,yes,No,No,1,No,Short
+Id947,25.87,5.63,yes,No,No,1,No,Short
+Id948,43.7,7.23,No,No,No,No major surgery,No,None
+Id949,40.945,10.57,No,No,No,No major surgery,No,None
+Id950,27.94,7.92,No,No,No,No major surgery,No,None
+Id951,31.9,10.12,No,No,No,2,No,Moderate
+Id952,31.64,7.91,No,No,No,No major surgery,No,None
+Id953,46.7,10.9,No,No,No,No major surgery,No,None
+Id954,18.335,11.83,No,No,No,No major surgery,No,None
+Id955,31.24,7.42,yes,No,No,2,No,Moderate
+Id956,39.22,5.62,yes,No,No,1,No,Short
+Id957,24.415,7.16,No,No,No,No major surgery,No,None
+Id958,32.3,9.89,No,No,No,No major surgery,No,None
+Id959,39.94,5.14,No,No,No,No major surgery,No,None
+Id960,30,5.61,yes,No,Yes,1,No,Short
+Id961,35.34,5.51,yes,No,Yes,1,No,Short
+Id962,32.205,8.38,yes,No,No,2,No,Moderate
+Id963,33.88,4.68,No,yes,No,1,No,Short
+Id964,26.63,4.36,yes,No,No,2,No,Moderate
+Id965,28.7,7.74,No,No,No,No major surgery,No,None
+Id966,25.65,4.05,yes,No,No,2,No,Moderate
+Id967,36.385,11.49,No,No,No,No major surgery,No,None
+Id968,34.69,5.65,No,No,No,No major surgery,No,None
+Id969,37.68,4.29,yes,No,No,No major surgery,No,None
+Id970,35.49,4.74,yes,No,Yes,1,No,Short
+Id971,44.7,7.6,yes,No,No,2,No,Moderate
+Id972,38.38,8.5,yes,No,No,2,No,Moderate
+Id973,35.245,11.22,yes,No,No,No major surgery,No,None
+Id974,49.84,5.1,yes,No,Yes,1,No,Short
+Id975,49.06,5.43,yes,No,No,1,No,Short
+Id976,30.88,5.82,No,No,No,2,No,Moderate
+Id977,33.35,6.05,No,No,Yes,1,No,Short
+Id978,38,6.38,yes,No,No,1,No,Short
+Id979,36.08,5.73,yes,No,No,1,No,Short
+Id980,35.7,5.47,yes,No,No,1,No,Short
+Id981,34.01,11.3,No,No,No,No major surgery,No,None
+Id982,31.54,6.72,No,No,No,No major surgery,No,None
+Id983,23.3,5.36,yes,No,No,1,No,Short
+Id984,27.75,9.88,No,No,No,No major surgery,No,None
+Id985,42.46,4.11,No,No,No,No major surgery,No,None
+Id986,54.47,7.48,No,No,No,No major surgery,No,None
+Id987,24.93,9.18,yes,No,Yes,1,No,Short
+Id988,48.12,4.51,yes,No,No,1,No,Short
+Id989,24.91,7.33,yes,No,Yes,1,No,Short
+Id990,27.645,10.56,No,No,No,No major surgery,No,None
+Id991,33.7,4.01,No,No,No,2,No,Moderate
+Id992,38.93,5.64,yes,No,No,1,No,Short
+Id993,32.775,8.02,yes,No,No,2,No,Moderate
+Id994,29.83,7.2,yes,No,No,No major surgery,No,None
+Id995,28.31,4.55,No,yes,No,1,No,Short
+Id996,29.79,9.03,No,No,No,No major surgery,No,None
+Id997,36.6,5.2,yes,No,Yes,1,No,Short
+Id998,35.93,8.3,yes,No,No,No major surgery,No,None
+Id999,28.6,5.56,yes,No,Yes,1,No,Short
+Id1000,39.17,4.15,No,No,No,No major surgery,No,None
+Id1001,26.41,5.99,yes,No,Yes,1,No,Short
+Id1002,30.63,5.8,yes,No,No,No major surgery,No,None
+Id1003,31.73,7.32,yes,No,No,2,No,Moderate
+Id1004,30.7,5.16,No,No,No,2,No,Moderate
+Id1005,25.935,5.96,yes,No,No,2,No,Moderate
+Id1006,35.9,4.85,yes,No,Yes,1,No,Short
+Id1007,26.7,5.09,yes,No,Yes,1,No,Short
+Id1008,33.71,4.94,No,No,No,No major surgery,No,None
+Id1009,41.91,4.92,yes,No,No,2,No,Moderate
+Id1010,39.82,6.05,yes,No,No,2,No,Moderate
+Id1011,28.12,4.67,No,No,No,2,No,Moderate
+Id1012,26.98,9.81,yes,No,No,No major surgery,No,None
+Id1013,27.2,6.06,yes,No,No,2,No,Moderate
+Id1014,25.3,5.19,yes,No,No,2,No,Moderate
+Id1015,30.25,10.16,No,No,No,No major surgery,No,None
+Id1016,54,4.68,yes,yes,No,2,No,Moderate
+Id1017,51.86,5.32,yes,No,No,No major surgery,No,None
+Id1018,31.39,6.99,No,No,No,No major surgery,No,None
+Id1019,39.97,5.55,No,No,No,No major surgery,No,None
+Id1020,41.23,6.94,No,No,No,No major surgery,No,None
+Id1021,49.45,4.2,yes,No,No,No major surgery,No,None
+Id1022,41.04,5.59,No,No,No,No major surgery,No,None
+Id1023,27.93,9.96,No,No,No,No major surgery,No,None
+Id1024,21.01,7.37,No,No,No,No major surgery,No,None
+Id1025,52.37,5.06,yes,yes,No,2,No,Moderate
+Id1026,40.37,8.21,No,No,No,No major surgery,No,None
+Id1027,41.47,10.34,No,No,No,2,No,Moderate
+Id1028,33.725,5.51,yes,No,No,2,No,Moderate
+Id1029,28.1,11.2,No,No,No,No major surgery,No,None
+Id1030,37.43,4.35,yes,No,Yes,1,No,Short
+Id1031,23.7,10.45,No,No,No,No major surgery,No,None
+Id1032,24.795,4.07,yes,No,Yes,1,No,Short
+Id1033,31.9,8.34,No,No,No,No major surgery,No,None
+Id1034,32.68,7.41,No,No,No,No major surgery,No,None
+Id1035,47.13,4.31,No,No,No,No major surgery,No,None
+Id1036,36.67,10.83,No,No,No,No major surgery,No,None
+Id1037,33.63,11.31,No,No,No,No major surgery,No,None
+Id1038,32.67,11.81,yes,No,No,No major surgery,No,None
+Id1039,33.3,8.26,yes,No,No,2,No,Moderate
+Id1040,30.78,10.74,yes,No,No,2,No,Moderate
+Id1041,28.975,7.69,yes,No,No,No major surgery,No,None
+Id1042,33.4,4.84,No,No,No,No major surgery,No,None
+Id1043,21.5,9.77,yes,No,No,No major surgery,No,None
+Id1044,38.14,5.84,No,No,No,No major surgery,No,None
+Id1045,35.42,8.7,yes,No,No,1,No,Short
+Id1046,35.625,10.79,No,No,No,No major surgery,No,None
+Id1047,45.51,4.32,No,No,No,1,No,Short
+Id1048,37.1,7.19,yes,No,No,No major surgery,No,None
+Id1049,30.5,11.94,yes,No,No,No major surgery,No,None
+Id1050,28.16,5.56,No,No,No,2,No,Moderate
+Id1051,29.1,5.64,yes,No,No,No major surgery,No,None
+Id1052,30.22,4.65,No,No,No,No major surgery,No,None
+Id1053,24.29,9.05,No,No,No,No major surgery,No,None
+Id1054,29.39,4.52,yes,No,No,No major surgery,No,None
+Id1055,25.66,4.62,yes,No,No,1,No,Short
+Id1056,39.11,5.87,No,No,No,No major surgery,No,None
+Id1057,43.78,5.71,No,No,No,1,No,Short
+Id1058,24.35,9.08,No,No,No,No major surgery,No,None
+Id1059,40.3,5.3,yes,No,No,2,No,Moderate
+Id1060,32.775,11.76,yes,No,No,No major surgery,No,None
+Id1061,39.6,5.11,yes,No,No,2,No,Moderate
+Id1062,30.97,5.54,No,No,No,2,No,Moderate
+Id1063,27.645,8.87,yes,No,No,No major surgery,No,None
+Id1064,34.43,5.96,yes,No,No,2,No,Moderate
+Id1065,39.6,4.44,yes,No,Yes,1,No,Short
+Id1066,22.1,4.65,yes,No,No,2,No,Moderate
+Id1067,33.25,5.64,yes,No,Yes,1,No,Short
+Id1068,33.33,10.19,No,No,No,No major surgery,No,None
+Id1069,30.5,10.79,No,No,No,No major surgery,No,None
+Id1070,30.3,4.24,No,No,No,No major surgery,No,None
+Id1071,26.22,5.83,No,No,No,2,No,Moderate
+Id1072,29.99,11.85,No,No,No,No major surgery,No,None
+Id1073,36.38,5.98,No,No,No,1,No,Short
+Id1074,31.16,4.26,yes,No,Yes,1,No,Short
+Id1075,25.55,4.96,yes,No,No,1,No,Short
+Id1076,28.77,4,yes,No,No,No major surgery,No,None
+Id1077,23.14,4.15,yes,No,No,1,No,Short
+Id1078,39.6,11.36,No,No,No,No major surgery,No,None
+Id1079,29.2,7.53,No,No,No,No major surgery,No,None
+Id1080,32.775,7.95,No,No,No,No major surgery,No,None
+Id1081,24.035,8.5,No,No,No,No major surgery,No,None
+Id1082,30.55,5.89,No,No,Yes,1,No,Short
+Id1083,28.81,8.76,No,No,No,2,No,Moderate
+Id1084,31.66,4.11,No,No,No,No major surgery,No,None
+Id1085,28.215,7.56,yes,No,No,1,No,Short
+Id1086,26.12,4.17,yes,No,Yes,1,No,Short
+Id1087,36.63,11.42,No,No,No,2,No,Moderate
+Id1088,33.345,7.33,No,No,No,2,No,Moderate
+Id1089,27.11,6.7,No,No,No,No major surgery,No,None
+Id1090,26.6,5.27,yes,No,Yes,1,No,Short
+Id1091,30.41,7.72,No,No,No,No major surgery,No,None
+Id1092,28.98,8.68,No,No,No,2,No,Moderate
+Id1093,31.24,9.8,No,No,No,No major surgery,No,None
+Id1094,31.54,4.44,No,No,No,No major surgery,No,None
+Id1095,38.6,7.19,yes,No,No,2,No,Moderate
+Id1096,37.95,6.06,No,No,No,No major surgery,No,None
+Id1097,38.97,5.12,No,No,No,No major surgery,No,None
+Id1098,21.2,10.72,No,No,No,No major surgery,No,None
+Id1099,23.96,9.58,yes,No,Yes,1,No,Short
+Id1100,35.93,6.4,yes,No,No,1,No,Short
+Id1101,26.11,6.8,yes,No,No,2,No,Moderate
+Id1102,32.3,9.48,No,No,No,2,No,Moderate
+Id1103,28.69,7.45,No,No,No,2,No,Moderate
+Id1104,31.28,6.94,yes,No,No,1,No,Short
+Id1105,30.21,7.83,No,No,No,No major surgery,No,None
+Id1106,38.28,10.17,yes,No,No,No major surgery,No,None
+Id1107,29.9,8.96,yes,No,No,No major surgery,No,None
+Id1108,23.18,6.96,yes,No,No,2,No,Moderate
+Id1109,33.02,5.07,yes,No,No,No major surgery,No,None
+Id1110,27.29,5.85,No,No,No,2,No,Moderate
+Id1111,23.18,10.56,No,No,No,2,No,Moderate
+Id1112,32.66,8.92,yes,No,No,No major surgery,No,None
+Id1113,30.78,8.63,No,No,No,No major surgery,No,None
+Id1114,47.2,6.29,yes,No,Yes,1,No,Short
+Id1115,31.6,5.75,No,No,No,2,No,Moderate
+Id1116,33.915,6.66,yes,No,No,1,No,Short
+Id1117,23.54,5.1,No,No,No,2,No,Moderate
+Id1118,27.075,4.41,No,No,No,2,No,Moderate
+Id1119,25.8,5.52,yes,No,No,No major surgery,No,None
+Id1120,36.1,4.62,yes,No,Yes,1,No,Short
+Id1121,30.495,5.74,yes,No,Yes,1,No,Short
+Id1122,21.4,6.3,yes,No,Yes,1,No,Short
+Id1123,32.3,10.27,No,No,No,No major surgery,No,None
+Id1124,29.78,5.85,No,No,Yes,1,No,Short
+Id1125,34.76,5.92,yes,No,No,1,No,Short
+Id1126,18.335,10.01,yes,No,No,2,No,Moderate
+Id1127,32.3,9.59,No,No,No,No major surgery,No,None
+Id1128,27.74,10.37,No,No,No,No major surgery,No,None
+Id1129,24,4.01,yes,No,No,1,No,Short
+Id1130,31.78,4.24,yes,No,Yes,1,No,Short
+Id1131,32.25,5.36,yes,No,No,No major surgery,No,None
+Id1132,30.115,4.99,No,No,No,2,No,Moderate
+Id1133,22.41,8.68,No,No,No,No major surgery,No,None
+Id1134,45.72,4.23,yes,No,No,No major surgery,No,None
+Id1135,25,5.32,yes,No,No,2,No,Moderate
+Id1136,39.5,6.66,No,No,No,No major surgery,No,None
+Id1137,37.73,7.4,No,No,No,No major surgery,No,None
+Id1138,40.66,10.08,No,No,No,No major surgery,No,None
+Id1139,34.2,8.58,No,No,No,No major surgery,No,None
+Id1140,46.51,5.84,No,No,No,1,No,Short
+Id1141,28.88,4.86,yes,No,Yes,1,No,Short
+Id1142,33.915,11.52,No,No,No,No major surgery,No,None
+Id1143,24.32,6.15,yes,No,Yes,1,No,Short
+Id1144,25.8,9.94,No,No,No,No major surgery,No,None
+Id1145,21.56,10.56,No,No,No,No major surgery,No,None
+Id1146,31.6,6.79,No,No,No,No major surgery,No,None
+Id1147,42.93,4.8,No,No,No,1,No,Short
+Id1148,26.72,5.75,No,No,No,2,No,Moderate
+Id1149,26.67,5.81,No,No,No,2,No,Moderate
+Id1150,42.68,9.28,No,No,No,2,No,Moderate
+Id1151,24.31,6.37,No,No,No,No major surgery,No,None
+Id1152,44.75,5.09,yes,No,No,No major surgery,No,None
+Id1153,30.78,7.94,No,No,No,2,No,Moderate
+Id1154,21.86,10.95,No,No,No,No major surgery,No,None
+Id1155,49.09,6.3,yes,No,No,No major surgery,No,None
+Id1156,47.74,8.05,yes,No,No,2,No,Moderate
+Id1157,30.2,9.88,yes,No,No,2,No,Moderate
+Id1158,33.25,7.42,yes,No,No,2,No,Moderate
+Id1159,26.6,8.45,yes,No,No,1,No,Short
+Id1160,26.35,6.21,No,No,No,2,No,Moderate
+Id1161,39.995,4.65,No,No,No,No major surgery,No,None
+Id1162,22.92,5.87,yes,No,No,1,No,Short
+Id1163,24.78,4.24,yes,No,No,2,No,Moderate
+Id1164,34.07,7.81,yes,No,No,No major surgery,No,None
+Id1165,30.14,9.85,No,No,No,No major surgery,No,None
+Id1166,18.05,6.94,No,No,No,No major surgery,No,None
+Id1167,37.4,11.3,yes,No,No,2,No,Moderate
+Id1168,25.75,9.23,No,No,No,No major surgery,No,None
+Id1169,32.3,4.37,No,No,No,2,No,Moderate
+Id1170,28.61,5.76,No,No,Yes,1,No,Short
+Id1171,45.41,4.96,No,No,No,1,No,Short
+Id1172,31.2,11.04,yes,No,No,2,No,Moderate
+Id1173,29.83,7.81,yes,No,No,1,No,Short
+Id1174,29.06,4.55,No,No,No,No major surgery,No,None
+Id1175,27.455,6.13,No,No,No,2,No,Moderate
+Id1176,23.01,6.04,yes,No,No,1,No,Short
+Id1177,31.39,8.85,yes,No,No,No major surgery,No,None
+Id1178,34.77,10.54,No,No,No,2,No,Moderate
+Id1179,24.48,4.37,yes,No,No,2,No,Moderate
+Id1180,22.61,9.63,No,No,No,2,No,Moderate
+Id1181,34.3,10.37,No,No,No,No major surgery,No,None
+Id1182,46.09,5.44,No,No,No,2,No,Moderate
+Id1183,44.745,5.19,No,No,No,2,No,Moderate
+Id1184,26.33,11.8,yes,No,No,1,No,Short
+Id1185,26.6,8.38,No,No,No,2,No,Moderate
+Id1186,27.5,7.58,No,No,No,No major surgery,No,None
+Id1187,41.55,4.61,No,No,No,1,No,Short
+Id1188,41.47,4.7,yes,No,Yes,1,No,Short
+Id1189,24.795,6.05,yes,No,No,No major surgery,No,None
+Id1190,29.48,5.63,yes,No,Yes,1,No,Short
+Id1191,28.09,6.06,No,No,Yes,1,No,Short
+Id1192,32.73,5.19,No,No,No,1,No,Short
+Id1193,27.36,8.96,No,No,No,No major surgery,No,None
+Id1194,27.265,11.39,No,No,No,No major surgery,No,None
+Id1195,48.07,4.06,yes,No,No,No major surgery,No,None
+Id1196,30.8,5.23,yes,No,No,No major surgery,No,None
+Id1197,32.3,5.05,yes,No,No,No major surgery,No,None
+Id1198,39.7,7.34,No,No,No,No major surgery,No,None
+Id1199,35.97,8.13,No,No,No,No major surgery,No,None
+Id1200,25.86,6.68,yes,No,No,1,No,Short
+Id1201,30.03,11.51,No,No,No,No major surgery,No,None
+Id1202,25.76,6.02,yes,No,Yes,1,No,Short
+Id1203,22.42,7.96,No,No,No,No major surgery,No,None
+Id1204,33.18,6.01,yes,No,No,1,No,Short
+Id1205,43.04,5.9,yes,No,No,No major surgery,No,None
+Id1206,34.15,4.49,yes,No,No,1,No,Short
+Id1207,25.78,6.25,No,No,No,No major surgery,No,None
+Id1208,21.02,9.62,yes,No,Yes,1,No,Short
+Id1209,37.51,11.06,No,No,No,2,No,Moderate
+Id1210,25.745,6.11,yes,No,No,No major surgery,No,None
+Id1211,31.35,11.49,No,No,No,2,No,Moderate
+Id1212,29.83,8.68,No,No,No,2,No,Moderate
+Id1213,25.49,5.68,yes,No,Yes,1,No,Short
+Id1214,34.1,8.45,No,No,No,No major surgery,No,None
+Id1215,25.84,8.51,No,No,No,2,No,Moderate
+Id1216,20.6,7.62,No,No,No,No major surgery,No,None
+Id1217,28.88,10.18,No,No,No,No major surgery,No,None
+Id1218,28.24,5.36,No,No,No,No major surgery,No,None
+Id1219,25.46,11.78,yes,No,No,1,No,Short
+Id1220,29.64,10.82,yes,No,No,No major surgery,No,None
+Id1221,31.27,7.73,yes,No,No,1,No,Short
+Id1222,19.95,6.24,yes,No,No,No major surgery,No,None
+Id1223,21.3,10.42,No,No,No,2,No,Moderate
+Id1224,31.635,11.11,No,No,No,No major surgery,No,None
+Id1225,23.9,7.67,yes,No,No,2,No,Moderate
+Id1226,34.15,6.15,No,No,No,No major surgery,No,None
+Id1227,28.71,5.71,No,No,No,No major surgery,No,None
+Id1228,36.7,8.7,yes,No,No,2,No,Moderate
+Id1229,34.1,9.04,yes,No,No,2,No,Moderate
+Id1230,25.7,5.61,No,No,No,No major surgery,No,None
+Id1231,21.68,8.12,No,No,No,No major surgery,No,None
+Id1232,25.175,4.74,No,No,No,No major surgery,No,None
+Id1233,44.77,4.06,No,No,No,2,No,Moderate
+Id1234,37.07,5.69,No,No,No,2,No,Moderate
+Id1235,39.8,5.66,No,No,Yes,1,No,Short
+Id1236,26.36,4.32,No,No,Yes,1,No,Short
+Id1237,29.925,8.29,No,No,No,2,No,Moderate
+Id1238,37.29,10.46,No,No,No,No major surgery,No,None
+Id1239,30.2,11.96,No,No,No,No major surgery,No,None
+Id1240,24.225,4.25,yes,No,Yes,1,No,Short
+Id1241,31.445,8.33,No,No,No,No major surgery,No,None
+Id1242,38.88,4.29,No,No,No,1,No,Short
+Id1243,43.89,6.32,yes,No,No,No major surgery,No,None
+Id1244,25.6,5.65,No,No,No,2,No,Moderate
+Id1245,29.545,8.41,yes,No,No,1,No,Short
+Id1246,23.25,11.96,yes,No,No,No major surgery,No,None
+Id1247,43.95,5.17,yes,No,Yes,1,No,Short
+Id1248,21.85,8.76,No,No,No,No major surgery,No,None
+Id1249,25.73,7.99,No,No,No,2,No,Moderate
+Id1250,32.23,8.59,No,No,No,No major surgery,No,None
+Id1251,32.205,6.14,No,No,No,2,No,Moderate
+Id1252,26.41,4.08,No,No,No,2,No,Moderate
+Id1253,30.2,6.25,yes,No,No,No major surgery,No,None
+Id1254,31.26,5.94,yes,No,No,1,No,Short
+Id1255,33.725,6.45,yes,No,No,No major surgery,No,None
+Id1256,28.9,5.74,yes,No,No,No major surgery,No,None
+Id1257,45.69,4.43,yes,No,No,No major surgery,No,None
+Id1258,21.03,6.5,No,No,No,No major surgery,No,None
+Id1259,37,8.75,No,No,No,No major surgery,No,None
+Id1260,25.4,11.96,No,No,No,No major surgery,No,None
+Id1261,32.3,10.54,No,No,No,No major surgery,No,None
+Id1262,23.94,4.54,yes,No,Yes,1,No,Short
+Id1263,46.4,5.71,No,No,No,No major surgery,No,None
+Id1264,40.375,6.25,yes,No,No,No major surgery,No,None
+Id1265,28.7,9.47,No,No,No,2,No,Moderate
+Id1266,26.63,5.7,No,No,No,No major surgery,No,None
+Id1267,22.515,11.18,No,No,No,2,No,Moderate
+Id1268,36.575,10.98,No,No,No,No major surgery,No,None
+Id1269,23.66,5.11,yes,No,Yes,1,No,Short
+Id1270,18.62,10.24,No,No,No,No major surgery,No,None
+Id1271,19.19,7.71,yes,No,No,1,No,Short
+Id1272,27.5,6.03,No,No,No,No major surgery,No,None
+Id1273,27.36,5.96,No,No,Yes,1,No,Short
+Id1274,20.35,4.16,No,No,No,No major surgery,No,None
+Id1275,24.035,6.11,No,No,No,No major surgery,No,None
+Id1276,23.56,5.97,No,No,No,No major surgery,No,None
+Id1277,27.17,10.81,No,No,No,2,No,Moderate
+Id1278,34.32,5.7,yes,No,Yes,1,No,Short
+Id1279,23.87,4.77,yes,No,Yes,1,No,Short
+Id1280,30.15,4.25,No,No,No,1,No,Short
+Id1281,26.36,5.52,No,No,No,No major surgery,No,None
+Id1282,45.32,6.53,yes,No,No,1,No,Short
+Id1283,31.93,4.82,yes,No,No,1,No,Short
+Id1284,36,11.94,yes,No,No,1,No,Short
+Id1285,32,7.85,yes,No,No,1,No,Short
+Id1286,29.37,8.01,yes,No,No,1,No,Short
+Id1287,23.6,7.4,yes,No,No,1,No,Short
+Id1288,33.155,8.38,yes,No,No,No major surgery,No,None
+Id1289,24.32,11.56,yes,No,No,1,No,Short
+Id1290,36.3,4.61,No,No,No,No major surgery,No,None
+Id1291,34.4,4.95,No,No,Yes,1,No,Short
+Id1292,30.9,5.04,No,No,No,No major surgery,No,None
+Id1293,28.6,5.42,No,No,No,No major surgery,No,None
+Id1294,27.83,5.39,No,No,No,No major surgery,No,None
+Id1295,39.64,6,No,No,Yes,1,No,Short
+Id1296,38.48,6.02,No,No,No,1,No,Short
+Id1297,36.2,4.62,No,No,No,2,No,Moderate
+Id1298,27.13,5.59,No,No,No,1,No,Short
+Id1299,20.75,5.18,yes,No,No,2,No,Moderate
+Id1300,26.6,6.29,No,No,No,2,No,Moderate
+Id1301,25.3,4.49,No,No,No,2,No,Moderate
+Id1302,18.84,11.82,yes,No,Yes,1,No,Short
+Id1303,19.57,7.41,yes,No,No,1,No,Short
+Id1304,30.495,5.97,No,No,No,No major surgery,No,None
+Id1305,30.115,5.74,No,No,Yes,1,No,Short
+Id1306,24.78,9.85,No,No,No,No major surgery,No,None
+Id1307,24.77,7.59,No,No,No,No major surgery,No,None
+Id1308,16.58,6.98,yes,No,Yes,1,No,Short
+Id1309,38.17,4.73,yes,No,No,No major surgery,No,None
+Id1310,39.425,4.76,yes,No,No,No major surgery,No,None
+Id1311,33.44,6.24,yes,No,No,No major surgery,No,None
+Id1312,33.345,5.44,yes,No,No,No major surgery,No,None
+Id1313,38.79,5.08,No,No,Yes,1,No,Short
+Id1314,30.685,4.87,No,No,Yes,1,No,Short
+Id1315,22.135,8.17,No,No,No,No major surgery,No,None
+Id1316,33.33,7.61,No,No,No,No major surgery,No,None
+Id1317,31.13,10.1,No,No,No,No major surgery,No,None
+Id1318,28.9,11.24,No,No,No,No major surgery,No,None
+Id1319,43.31,6.1,yes,yes,No,1,No,Short
+Id1320,22.8,6.98,No,No,No,No major surgery,No,None
+Id1321,19.09,4,yes,No,No,1,No,Short
+Id1322,23.37,4.23,No,No,No,No major surgery,No,None
+Id1323,33.44,4.72,yes,No,No,No major surgery,No,None
+Id1324,28.05,5.63,yes,No,No,No major surgery,No,None
+Id1325,27.72,5.83,yes,No,No,No major surgery,No,None
+Id1326,29.81,9.23,No,No,No,No major surgery,No,None
+Id1327,23.98,9.89,No,No,No,No major surgery,No,None
+Id1328,17.34,12,No,No,No,No major surgery,No,None
+Id1329,40.39,4.24,yes,No,Yes,1,No,Short
+Id1330,25.96,4.68,yes,No,Yes,1,No,Short
+Id1331,17.68,8.57,yes,No,Yes,1,No,Short
+Id1332,30.875,4.1,No,No,No,No major surgery,No,None
+Id1333,30.81,4.49,No,No,No,No major surgery,No,None
+Id1334,36.85,8.8,No,No,No,2,No,Moderate
+Id1335,35.86,7.93,No,No,No,2,No,Moderate
+Id1336,30.3,9.45,No,No,No,2,No,Moderate
+Id1337,32.015,7.67,No,No,No,No major surgery,No,None
+Id1338,25.06,10.53,No,No,No,2,No,Moderate
+Id1339,18.83,10.08,yes,No,No,No major surgery,No,None
+Id1340,47.52,11.39,yes,No,No,1,No,Short
+Id1341,37.82,6.36,No,No,No,No major surgery,No,None
+Id1342,44.16,5.31,yes,No,No,No major surgery,No,None
+Id1343,37.05,4.74,No,No,Yes,1,No,Short
+Id1344,18.66,11.35,No,No,No,No major surgery,No,None
+Id1345,36.2,6.81,yes,No,No,1,No,Short
+Id1346,18.87,8.06,No,No,No,No major surgery,No,None
+Id1347,32.3,6.74,yes,No,No,1,No,Short
+Id1348,22.64,6.54,yes,No,No,2,No,Moderate
+Id1349,28.69,5.4,No,No,No,No major surgery,No,None
+Id1350,28.16,5.58,yes,No,No,No major surgery,No,None
+Id1351,45.54,5.84,No,No,Yes,1,No,Short
+Id1352,28.7,4.2,No,No,No,No major surgery,No,None
+Id1353,27.74,6.06,yes,No,No,No major surgery,No,None
+Id1354,36.955,7.57,No,No,No,No major surgery,No,None
+Id1355,30.69,6.15,No,No,No,No major surgery,No,None
+Id1356,24.985,4.56,No,No,No,No major surgery,No,None
+Id1357,39.42,4.72,yes,No,No,1,No,Short
+Id1358,16.8,7.98,No,No,No,No major surgery,No,None
+Id1359,23.275,6.26,yes,No,Yes,1,No,Short
+Id1360,22.8,4.29,yes,No,Yes,1,No,Short
+Id1361,24.3,5.43,No,No,No,2,No,Moderate
+Id1362,25.13,8,yes,No,No,1,No,Short
+Id1363,22.72,9.96,yes,No,No,2,No,Moderate
+Id1364,32.6,6.8,yes,No,No,No major surgery,No,None
+Id1365,17.28,6.22,yes,No,No,2,No,Moderate
+Id1366,27.92,5.79,No,No,No,1,No,Short
+Id1367,38.285,5.41,No,No,No,No major surgery,No,None
+Id1368,16.48,11.05,No,No,No,No major surgery,No,None
+Id1369,38.57,6.27,No,No,No,No major surgery,No,None
+Id1370,43.85,4.77,yes,No,No,No major surgery,No,None
+Id1371,30.11,4.08,No,No,No,No major surgery,No,None
+Id1372,31.59,6.01,No,No,No,No major surgery,No,None
+Id1373,40.15,11.84,No,No,No,No major surgery,No,None
+Id1374,40.7,6.27,yes,No,Yes,1,No,Short
+Id1375,40.76,5.28,No,No,No,No major surgery,No,None
+Id1376,29.7,7.03,No,No,No,No major surgery,No,None
+Id1377,40.58,5.32,yes,No,Yes,1,No,Short
+Id1378,33.06,9.59,yes,No,No,No major surgery,No,None
+Id1379,26.62,6.15,yes,No,No,No major surgery,No,None
+Id1380,37.1,11.08,No,No,No,No major surgery,No,None
+Id1381,18.28,7.95,No,No,No,No major surgery,No,None
+Id1382,35.815,6.23,No,No,No,No major surgery,No,None
+Id1383,30.69,6.5,No,No,No,No major surgery,No,None
+Id1384,26.125,5.22,No,No,No,No major surgery,No,None
+Id1385,34.58,6.3,No,No,Yes,1,No,Short
+Id1386,27.4,8.84,No,No,No,No major surgery,No,None
+Id1387,27.53,4.11,No,No,No,1,No,Short
+Id1388,33,4.57,No,No,No,No major surgery,No,None
+Id1389,25.78,11.06,yes,No,No,No major surgery,No,None
+Id1390,22.66,10.68,No,No,No,No major surgery,No,None
+Id1391,38.81,6.14,yes,No,No,1,No,Short
+Id1392,38.51,5.45,yes,No,No,No major surgery,No,None
+Id1393,22.98,6.14,yes,No,No,No major surgery,No,None
+Id1394,15.65,7.85,No,No,No,No major surgery,No,None
+Id1395,39.97,4.09,No,No,No,1,No,Short
+Id1396,37.22,4.62,No,No,Yes,1,No,Short
+Id1397,41.325,5.77,No,No,No,No major surgery,No,None
+Id1398,40.31,5.84,No,No,No,No major surgery,No,None
+Id1399,29.48,4.91,No,No,No,No major surgery,No,None
+Id1400,33.155,5.07,No,No,No,No major surgery,No,None
+Id1401,42.85,5.81,yes,No,No,No major surgery,No,None
+Id1402,32.34,11.2,No,No,No,No major surgery,No,None
+Id1403,27.5,10.75,No,No,No,No major surgery,No,None
+Id1404,25.8,7.8,No,No,No,No major surgery,No,None
+Id1405,25,7.04,No,No,No,No major surgery,No,None
+Id1406,41.2,4.18,yes,No,No,No major surgery,No,None
+Id1407,17.78,8.19,No,No,No,No major surgery,No,None
+Id1408,40.12,6.22,yes,No,Yes,1,No,Short
+Id1409,19.35,8.22,yes,No,No,No major surgery,No,None
+Id1410,36.69,6.15,No,No,No,No major surgery,No,None
+Id1411,28.51,5.65,yes,No,No,1,No,Short
+Id1412,30.21,5.5,No,No,No,1,No,Short
+Id1413,24.33,8,No,No,No,No major surgery,No,None
+Id1414,19.855,5.71,yes,No,No,No major surgery,No,None
+Id1415,25.365,11.71,No,No,No,No major surgery,No,None
+Id1416,29.6,6.17,yes,No,Yes,1,No,Short
+Id1417,39.43,6.1,yes,No,Yes,1,No,Short
+Id1418,27.34,5.19,yes,No,No,1,No,Short
+Id1419,39.01,5.37,yes,No,No,No major surgery,No,None
+Id1420,18.99,10.82,yes,No,No,No major surgery,No,None
+Id1421,42.3,6.06,yes,No,No,No major surgery,No,None
+Id1422,39.805,5.91,No,No,No,No major surgery,No,None
+Id1423,33.7,5.87,No,No,No,No major surgery,No,None
+Id1424,36.195,6.22,No,No,No,No major surgery,No,None
+Id1425,32.6,5.73,No,No,Yes,1,No,Short
+Id1426,30.2,5.7,No,No,No,No major surgery,No,None
+Id1427,27.645,9.91,No,No,No,No major surgery,No,None
+Id1428,26.41,11.4,No,No,No,No major surgery,No,None
+Id1429,34.1,6.29,yes,No,Yes,1,No,Short
+Id1430,17.3,9.28,No,No,No,No major surgery,No,None
+Id1431,35.02,4.78,No,No,Yes,1,No,Short
+Id1432,37.1,8.87,yes,No,No,No major surgery,No,None
+Id1433,16.79,11.4,No,No,No,No major surgery,No,None
+Id1434,31.635,9.13,yes,No,No,No major surgery,No,None
+Id1435,24.19,6.22,yes,No,Yes,1,No,Short
+Id1436,35.29,5.9,No,No,Yes,1,No,Short
+Id1437,35.3,4.45,No,No,No,No major surgery,No,None
+Id1438,35.64,6.17,No,No,Yes,1,No,Short
+Id1439,33.1,4.93,No,No,No,No major surgery,No,None
+Id1440,26.41,7.32,yes,No,No,1,No,Short
+Id1441,29.9,5.27,No,No,Yes,1,No,Short
+Id1442,25.24,5.82,No,No,No,1,No,Short
+Id1443,25.08,5.8,No,No,Yes,1,No,Short
+Id1444,29.165,4.87,No,yes,No,1,No,Short
+Id1445,15.05,8.12,No,No,No,No major surgery,No,None
+Id1446,19.95,4.36,No,No,No,2,No,Moderate
+Id1447,16.66,9.16,No,No,No,No major surgery,No,None
+Id1448,16.62,9.14,No,No,No,No major surgery,No,None
+Id1449,15.36,5.49,yes,No,No,2,No,Moderate
+Id1450,27.74,5.96,yes,No,No,No major surgery,No,None
+Id1451,22.44,4.62,yes,No,No,No major surgery,No,None
+Id1452,37.05,9.96,yes,No,No,No major surgery,No,None
+Id1453,22.95,10.53,No,No,No,2,No,Moderate
+Id1454,34.2,6.69,yes,No,No,No major surgery,No,None
+Id1455,30.59,9.55,yes,No,No,No major surgery,No,None
+Id1456,25.51,6.05,No,No,No,No major surgery,No,None
+Id1457,29.04,10.56,yes,No,No,1,No,Short
+Id1458,22.135,10.81,yes,No,No,1,No,Short
+Id1459,21.375,4.32,No,No,No,No major surgery,No,None
+Id1460,29.19,4.37,No,No,No,No major surgery,No,None
+Id1461,31.92,4.81,yes,No,Yes,1,No,Short
+Id1462,26.315,4.56,yes,No,Yes,1,No,Short
+Id1463,35.3,4.39,No,No,No,No major surgery,No,None
+Id1464,18.91,11.44,No,No,No,No major surgery,No,None
+Id1465,22.41,11.37,yes,No,No,1,No,Short
+Id1466,22.705,6.14,No,No,No,No major surgery,No,None
+Id1467,37.18,4.89,No,No,No,No major surgery,No,None
+Id1468,35.97,4.6,No,No,No,No major surgery,No,None
+Id1469,35.8,4.42,No,No,No,No major surgery,No,None
+Id1470,28.31,7.48,yes,No,No,No major surgery,No,None
+Id1471,38.06,10.74,No,No,No,No major surgery,No,None
+Id1472,28,5.19,No,No,No,1,No,Short
+Id1473,34.32,9.17,No,No,No,No major surgery,No,None
+Id1474,22.3,4.95,yes,No,No,No major surgery,No,None
+Id1475,27.835,6.03,No,No,No,1,No,Short
+Id1476,39.23,5.36,No,No,No,No major surgery,No,None
+Id1477,19.95,6.11,No,No,No,1,No,Short
+Id1478,34.64,4.88,No,No,Yes,1,No,Short
+Id1479,18.75,6.72,No,No,No,No major surgery,No,None
+Id1480,26.48,4.2,No,No,No,1,No,Short
+Id1481,34.83,5.79,No,No,No,1,No,Short
+Id1482,25.46,4.29,No,No,No,No major surgery,No,None
+Id1483,23.31,8.27,No,No,No,No major surgery,No,None
+Id1484,29,4.56,No,No,No,No major surgery,No,None
+Id1485,32.87,5.33,No,No,No,No major surgery,No,None
+Id1486,26.18,5.63,No,No,No,No major surgery,No,None
+Id1487,25.3,5.12,No,No,No,No major surgery,No,None
+Id1488,36.94,5.15,yes,No,No,1,No,Short
+Id1489,22.86,7.5,No,No,No,No major surgery,No,None
+Id1490,18.76,4.88,yes,No,Yes,1,No,Short
+Id1491,24.36,5.57,No,No,No,No major surgery,No,None
+Id1492,32.3,5.31,No,No,No,No major surgery,No,None
+Id1493,22.705,4.57,yes,No,No,No major surgery,No,None
+Id1494,21.79,8.7,yes,No,No,1,No,Short
+Id1495,24.52,4.76,No,No,No,No major surgery,No,None
+Id1496,39.52,11.81,No,No,No,No major surgery,No,None
+Id1497,24.49,4.67,No,No,No,No major surgery,No,None
+Id1498,26.315,6.02,No,No,No,No major surgery,No,None
+Id1499,22.58,7.46,No,No,No,No major surgery,No,None
+Id1500,19.475,4.74,No,No,No,1,No,Short
+Id1501,26.33,4.79,No,No,No,No major surgery,No,None
+Id1502,17.29,5.35,yes,No,No,No major surgery,No,None
+Id1503,42.88,4.87,No,yes,No,1,No,Short
+Id1504,32.2,10.09,yes,No,No,No major surgery,No,None
+Id1505,18.75,5.47,yes,No,Yes,1,No,Short
+Id1506,22.36,8.6,No,No,No,No major surgery,No,None
+Id1507,23.94,10.74,yes,No,No,No major surgery,No,None
+Id1508,30.1,4.39,No,No,Yes,1,No,Short
+Id1509,21.93,6.3,No,No,No,No major surgery,No,None
+Id1510,39.75,5.41,No,yes,No,1,No,Short
+Id1511,26.03,4.47,No,No,Yes,1,No,Short
+Id1512,34.51,6.26,No,No,No,No major surgery,No,None
+Id1513,19.32,11.58,yes,No,No,1,No,Short
+Id1514,28.5,4.36,No,No,No,No major surgery,No,None
+Id1515,30.875,4.14,yes,No,No,No major surgery,No,None
+Id1516,24.02,4.38,No,No,No,No major surgery,No,None
+Id1517,36.08,11.61,yes,No,No,No major surgery,No,None
+Id1518,32.2,10.59,yes,No,No,No major surgery,No,None
+Id1519,28.05,11.85,yes,No,No,No major surgery,No,None
+Id1520,19,5.46,yes,No,No,1,No,Short
+Id1521,16.13,4.54,yes,No,No,2,No,Moderate
+Id1522,18.77,11.98,yes,No,No,2,No,Moderate
+Id1523,28.88,6.59,yes,No,No,1,No,Short
+Id1524,27.55,10.83,yes,No,No,1,No,Short
+Id1525,15.6,8.6,No,No,No,No major surgery,No,None
+Id1526,21.99,11.17,No,No,No,No major surgery,No,None
+Id1527,34.85,5.75,No,No,No,No major surgery,No,None
+Id1528,24.51,4.83,yes,No,Yes,1,No,Short
+Id1529,19.4,11.93,No,No,No,No major surgery,No,None
+Id1530,15.1,8.41,No,No,No,No major surgery,No,None
+Id1531,23.37,5.59,yes,No,No,No major surgery,No,None
+Id1532,42.4,4.06,No,No,No,No major surgery,No,None
+Id1533,28.405,7.02,yes,No,No,No major surgery,No,None
+Id1534,23.4,4.47,No,No,No,No major surgery,No,None
+Id1535,33.44,4.54,No,No,No,No major surgery,No,None
+Id1536,21.12,4.99,No,No,No,1,No,Short
+Id1537,18.48,10.84,yes,No,No,2,No,Moderate
+Id1538,16.815,5.63,No,No,No,1,No,Short
+Id1539,26.72,4.14,No,No,No,No major surgery,No,None
+Id1540,41.42,5.17,No,No,Yes,1,No,Short
+Id1541,20.69,6.93,No,No,No,2,No,Moderate
+Id1542,41.23,4.24,No,No,No,No major surgery,No,None
+Id1543,29.9,5.91,No,No,No,No major surgery,No,None
+Id1544,34.105,5.93,No,No,No,No major surgery,No,None
+Id1545,24.97,5.66,No,No,No,No major surgery,No,None
+Id1546,34.8,4.19,No,No,No,1,No,Short
+Id1547,32.965,9.21,yes,No,No,No major surgery,No,None
+Id1548,27.265,5.51,No,No,No,1,No,Short
+Id1549,17.06,8.5,No,No,No,No major surgery,No,None
+Id1550,36.29,6.23,No,No,No,No major surgery,No,None
+Id1551,28.595,8.53,yes,No,No,1,No,Short
+Id1552,17.8,5.75,yes,No,Yes,1,No,Short
+Id1553,21.4,5.6,No,No,No,No major surgery,No,None
+Id1554,23.01,4.68,No,No,No,No major surgery,No,None
+Id1555,19.86,5.62,yes,No,No,No major surgery,No,None
+Id1556,33.58,5.08,No,No,No,No major surgery,No,None
+Id1557,29.81,5.28,No,No,No,No major surgery,No,None
+Id1558,27.4,4.61,No,No,No,No major surgery,No,None
+Id1559,17.98,6.57,yes,No,No,2,No,Moderate
+Id1560,37.9,5.83,No,No,No,No major surgery,No,None
+Id1561,25.27,6.98,yes,No,No,No major surgery,No,None
+Id1562,29.26,4.03,No,No,No,1,No,Short
+Id1563,27.835,4.56,No,No,No,1,No,Short
+Id1564,46.53,5.38,yes,No,No,No major surgery,No,None
+Id1565,20.58,11.04,yes,No,No,1,No,Short
+Id1566,19.53,6.09,yes,No,No,No major surgery,No,None
+Id1567,27.7,4.71,No,No,No,1,No,Short
+Id1568,18.92,8.18,No,No,No,No major surgery,No,None
+Id1569,17.76,11.18,yes,No,No,2,No,Moderate
+Id1570,29.83,5.03,yes,No,No,No major surgery,No,None
+Id1571,23.465,5.56,No,No,No,1,No,Short
+Id1572,29.355,4.33,No,No,No,No major surgery,No,None
+Id1573,35.49,5.21,yes,No,Yes,1,No,Short
+Id1574,26.315,5.89,No,No,No,No major surgery,No,None
+Id1575,19.79,4.81,yes,No,No,No major surgery,No,None
+Id1576,40.565,5.66,No,No,No,1,No,Short
+Id1577,18.03,10.66,yes,No,No,2,No,Moderate
+Id1578,34.65,5.98,yes,No,No,No major surgery,No,None
+Id1579,42.94,4.34,No,No,No,No major surgery,No,None
+Id1580,31.255,5.17,No,No,No,No major surgery,No,None
+Id1581,45.43,4.23,yes,No,Yes,1,No,Short
+Id1582,32.34,4.88,yes,No,Yes,1,No,Short
+Id1583,25.46,9.71,yes,No,No,1,No,Short
+Id1584,37.145,5.32,No,No,No,No major surgery,No,None
+Id1585,30.8,5.83,yes,No,No,No major surgery,No,None
+Id1586,29.5,5.54,yes,No,No,No major surgery,No,None
+Id1587,43.39,5.85,No,yes,No,1,No,Short
+Id1588,15.08,4.85,yes,No,Yes,1,No,Short
+Id1589,20.48,11.09,No,No,No,No major surgery,No,None
+Id1590,34.45,5.58,yes,No,No,No major surgery,No,None
+Id1591,34.21,9.72,yes,No,No,No major surgery,No,None
+Id1592,28.8,11.41,yes,No,No,No major surgery,No,None
+Id1593,31.74,4.46,No,No,Yes,1,No,Short
+Id1594,21.78,9.31,yes,No,No,No major surgery,No,None
+Id1595,23.75,5.03,No,No,No,1,No,Short
+Id1596,33.21,5.07,yes,No,No,1,No,Short
+Id1597,17.7,10.42,yes,No,No,2,No,Moderate
+Id1598,17.2,6.45,No,No,No,2,No,Moderate
+Id1599,19.21,5.52,No,No,No,2,No,Moderate
+Id1600,23.2,4.41,No,No,Yes,1,No,Short
+Id1601,32.5,4.69,yes,No,Yes,1,No,Short
+Id1602,20.9,6.94,No,No,No,No major surgery,No,None
+Id1603,19.11,4.35,No,No,No,2,No,Moderate
+Id1604,31.17,5.28,No,No,No,1,No,Short
+Id1605,36.08,4.29,No,No,No,No major surgery,No,None
+Id1606,28.025,5.69,yes,No,No,No major surgery,No,None
+Id1607,24.32,5.56,yes,No,No,No major surgery,No,None
+Id1608,38,5.41,yes,No,No,1,No,Short
+Id1609,31.6,10.85,yes,No,No,No major surgery,No,None
+Id1610,31.02,11.63,yes,No,No,No major surgery,No,None
+Id1611,29.26,5.68,yes,No,No,1,No,Short
+Id1612,15.09,7.59,yes,No,No,2,No,Moderate
+Id1613,22.63,5.09,yes,No,No,No major surgery,No,None
+Id1614,23.46,4.21,No,No,No,1,No,Short
+Id1615,22.56,4.34,yes,No,No,No major surgery,No,None
+Id1616,19.28,11.85,No,No,No,2,No,Moderate
+Id1617,15.37,9.61,yes,No,No,2,No,Moderate
+Id1618,18.71,5.29,yes,No,No,No major surgery,No,None
+Id1619,20.61,6.89,No,No,No,No major surgery,No,None
+Id1620,15.99,4.57,yes,No,Yes,1,No,Short
+Id1621,33.155,4.32,No,No,No,No major surgery,No,None
+Id1622,26.22,5.57,yes,No,Yes,1,No,Short
+Id1623,21.85,5.26,yes,No,Yes,1,No,Short
+Id1624,30.495,6.25,No,No,No,No major surgery,No,None
+Id1625,34.105,5.67,yes,No,No,No major surgery,No,None
+Id1626,32.77,4.42,yes,No,No,1,No,Short
+Id1627,16.85,11.75,yes,No,No,2,No,Moderate
+Id1628,34.7,6.06,No,No,No,1,No,Short
+Id1629,37.05,5.48,No,No,No,1,No,Short
+Id1630,18.78,4.45,No,No,Yes,1,No,Short
+Id1631,28.025,5,No,No,No,1,No,Short
+Id1632,35.09,5.84,No,No,No,No major surgery,No,None
+Id1633,34.42,5.21,yes,No,No,No major surgery,No,None
+Id1634,29.4,4.26,No,No,No,No major surgery,No,None
+Id1635,21.31,4.17,No,No,No,No major surgery,No,None
+Id1636,19.56,11.96,No,No,No,No major surgery,No,None
+Id1637,37.335,6.26,yes,No,No,1,No,Short
+Id1638,19.53,11.68,No,No,No,No major surgery,No,None
+Id1639,34.1,5.16,No,No,No,No major surgery,No,None
+Id1640,16.5,6.9,yes,No,No,2,No,Moderate
+Id1641,30.69,4.83,No,No,No,1,No,Short
+Id1642,28.93,4.87,No,No,No,1,No,Short
+Id1643,38.9,4.28,No,No,No,No major surgery,No,None
+Id1644,26.9,4.07,No,No,No,No major surgery,No,None
+Id1645,24.86,6.23,No,No,No,No major surgery,No,None
+Id1646,39.14,6.24,No,yes,No,1,No,Short
+Id1647,39.8,6.17,No,No,Yes,1,No,Short
+Id1648,34.32,5.16,No,No,No,1,No,Short
+Id1649,32.51,4.3,No,No,No,No major surgery,No,None
+Id1650,30.71,6.14,No,No,Yes,1,No,Short
+Id1651,28.9,5.36,No,No,No,1,No,Short
+Id1652,36.19,4.3,No,No,No,No major surgery,No,None
+Id1653,29.6,4.09,No,No,No,No major surgery,No,None
+Id1654,30.95,6.27,No,No,Yes,1,No,Short
+Id1655,19.95,5.39,No,No,No,1,No,Short
+Id1656,23.65,5.75,yes,No,No,No major surgery,No,None
+Id1657,43.34,4.91,No,No,No,1,No,Short
+Id1658,31.98,4.46,yes,No,No,1,No,Short
+Id1659,35.86,6.22,No,No,No,1,No,Short
+Id1660,15.2,8.82,No,No,No,No major surgery,No,None
+Id1661,37.2,10.14,No,No,No,No major surgery,No,None
+Id1662,17.91,4.66,No,No,No,2,No,Moderate
+Id1663,20.76,6.26,No,No,No,No major surgery,No,None
+Id1664,38.99,5.21,No,yes,No,1,No,Short
+Id1665,42.655,5.94,yes,No,Yes,1,No,Short
+Id1666,30.57,5.34,No,No,Yes,1,No,Short
+Id1667,17.7,6.38,No,No,No,2,No,Moderate
+Id1668,34.77,4.47,No,No,No,1,No,Short
+Id1669,16.88,9.96,No,No,No,No major surgery,No,None
+Id1670,40.26,9.92,yes,No,No,No major surgery,No,None
+Id1671,25.6,6.03,No,No,Yes,1,No,Short
+Id1672,33.55,10.9,yes,No,No,No major surgery,No,None
+Id1673,16.69,10.66,No,No,No,No major surgery,No,None
+Id1674,19.95,4.05,No,No,No,1,No,Short
+Id1675,17.55,4.23,No,No,No,2,No,Moderate
+Id1676,22.01,5.01,No,No,No,1,No,Short
+Id1677,41.8,5.82,yes,No,Yes,1,No,Short
+Id1678,19.17,7.94,No,No,No,No major surgery,No,None
+Id1679,32.8,6.16,yes,No,Yes,1,No,Short
+Id1680,35.815,4.15,No,No,No,1,No,Short
+Id1681,24.3,6.23,No,No,No,No major surgery,No,None
+Id1682,19.06,7.41,No,No,No,No major surgery,No,None
+Id1683,33.25,5.62,yes,No,No,1,No,Short
+Id1684,21.37,4.54,yes,No,Yes,1,No,Short
+Id1685,34.43,8.62,yes,No,No,1,No,Short
+Id1686,20.86,4.36,yes,No,No,No major surgery,No,None
+Id1687,18.34,10.01,No,No,No,No major surgery,No,None
+Id1688,34.15,5.42,No,No,No,No major surgery,No,None
+Id1689,18.35,5.12,No,No,No,No major surgery,No,None
+Id1690,22.13,9.2,yes,No,No,No major surgery,No,None
+Id1691,22.51,6.08,yes,No,No,1,No,Short
+Id1692,31,4.77,No,No,No,1,No,Short
+Id1693,28.27,4.62,No,No,No,1,No,Short
+Id1694,29.92,9.07,yes,No,No,1,No,Short
+Id1695,25.9,9.12,yes,No,No,1,No,Short
+Id1696,27.74,7.32,yes,No,No,1,No,Short
+Id1697,17.26,11.73,No,No,No,2,No,Moderate
+Id1698,19.855,6.64,yes,No,No,1,No,Short
+Id1699,41.69,5.78,No,No,No,No major surgery,No,None
+Id1700,16.12,10.45,No,No,No,No major surgery,No,None
+Id1701,37.43,4.52,No,No,No,1,No,Short
+Id1702,31.065,5.71,No,No,No,No major surgery,No,None
+Id1703,25.08,4.77,No,No,No,No major surgery,No,None
+Id1704,15.2,7.81,yes,No,No,1,No,Short
+Id1705,22.34,5.19,yes,No,No,No major surgery,No,None
+Id1706,40.15,5.93,No,No,No,1,No,Short
+Id1707,37.73,6.29,No,No,No,1,No,Short
+Id1708,25.35,4.9,No,No,No,No major surgery,No,None
+Id1709,26.41,5.07,yes,No,No,1,No,Short
+Id1710,27.6,5.33,No,No,No,1,No,Short
+Id1711,33.82,8.93,yes,No,No,1,No,Short
+Id1712,32.9,4.35,No,No,No,No major surgery,No,None
+Id1713,30.875,9.54,yes,No,No,1,No,Short
+Id1714,32.64,5.91,No,No,No,No major surgery,No,None
+Id1715,22.135,5.1,No,No,No,No major surgery,No,None
+Id1716,16.53,5.08,No,No,No,2,No,Moderate
+Id1717,32.775,4.75,No,No,No,No major surgery,No,None
+Id1718,30.9,6.05,No,No,No,1,No,Short
+Id1719,15.58,11.56,No,No,No,No major surgery,No,None
+Id1720,26.315,5.76,No,No,No,No major surgery,No,None
+Id1721,35.61,5.65,No,yes,No,1,No,Short
+Id1722,37.56,5.88,No,yes,No,1,No,Short
+Id1723,15.49,9.6,No,No,No,No major surgery,No,None
+Id1724,23.48,6.24,No,No,No,1,No,Short
+Id1725,30.02,7.63,yes,No,No,1,No,Short
+Id1726,26.885,8.66,yes,No,No,1,No,Short
+Id1727,25.84,8.55,yes,No,No,1,No,Short
+Id1728,27.455,4.54,No,No,No,No major surgery,No,None
+Id1729,24.605,5.7,No,No,No,No major surgery,No,None
+Id1730,30.8,5.07,No,No,No,No major surgery,No,None
+Id1731,34.8,4.38,No,No,No,1,No,Short
+Id1732,34.21,4.54,No,No,No,1,No,Short
+Id1733,31,5.38,No,No,No,1,No,Short
+Id1734,26.125,5.55,No,No,No,1,No,Short
+Id1735,30.13,4.03,yes,No,No,1,No,Short
+Id1736,34.19,4.19,No,No,No,No major surgery,No,None
+Id1737,22.515,4.37,No,No,Yes,1,No,Short
+Id1738,18.24,5.31,yes,No,Yes,1,No,Short
+Id1739,37.28,4.66,No,yes,No,1,No,Short
+Id1740,18.2,6.19,No,No,Yes,1,No,Short
+Id1741,20.53,4.86,No,No,No,1,No,Short
+Id1742,23.79,4.74,No,No,No,No major surgery,No,None
+Id1743,29.8,6.03,No,No,No,No major surgery,No,None
+Id1744,31.54,4.71,No,No,No,No major surgery,No,None
+Id1745,20.82,5.55,No,No,No,1,No,Short
+Id1746,38.83,4.78,No,No,Yes,1,No,Short
+Id1747,23.44,4.65,yes,No,No,1,No,Short
+Id1748,24.13,5.2,No,No,No,1,No,Short
+Id1749,42.13,4.54,yes,No,No,1,No,Short
+Id1750,17.86,4.11,No,No,No,1,No,Short
+Id1751,32.78,4.63,No,No,No,No major surgery,No,None
+Id1752,23.9,6.06,yes,No,Yes,1,No,Short
+Id1753,15.47,8.43,No,No,No,No major surgery,No,None
+Id1754,28.54,5.51,No,No,Yes,1,No,Short
+Id1755,18.54,4.95,No,No,No,No major surgery,No,None
+Id1756,32.18,6.44,yes,No,Yes,1,No,Short
+Id1757,37.38,6.05,yes,No,No,No major surgery,No,None
+Id1758,31.12,4.76,yes,No,Yes,1,No,Short
+Id1759,22.01,6.72,yes,No,No,1,No,Short
+Id1760,27.645,5.7,No,No,No,No major surgery,No,None
+Id1761,29.64,5.31,yes,No,No,No major surgery,No,None
+Id1762,33.7,4.32,yes,No,No,1,No,Short
+Id1763,27.5,4.23,yes,No,No,1,No,Short
+Id1764,16.12,6.09,No,No,No,No major surgery,No,None
+Id1765,26.73,4.74,yes,No,No,1,No,Short
+Id1766,37.25,6.23,yes,No,No,No major surgery,No,None
+Id1767,23.56,5.45,yes,No,No,1,No,Short
+Id1768,15.84,10.34,No,No,No,2,No,Moderate
+Id1769,36.63,5.15,No,No,No,No major surgery,No,None
+Id1770,16.47,11.72,No,No,No,No major surgery,No,None
+Id1771,25.8,5.29,No,No,No,No major surgery,No,None
+Id1772,23.6,4.33,No,No,No,No major surgery,No,None
+Id1773,32.11,6.24,No,No,Yes,1,No,Short
+Id1774,30.115,11.61,No,No,No,No major surgery,No,None
+Id1775,20.28,11.07,yes,No,No,No major surgery,No,None
+Id1776,20.235,5.19,No,No,Yes,1,No,Short
+Id1777,25.27,5.7,yes,No,No,1,No,Short
+Id1778,24.24,6.15,No,No,No,No major surgery,No,None
+Id1779,35.75,5.07,No,No,No,No major surgery,No,None
+Id1780,29.92,10.97,yes,No,No,1,No,Short
+Id1781,26.2,10.93,yes,No,No,1,No,Short
+Id1782,26.695,4.21,yes,No,Yes,1,No,Short
+Id1783,23.16,5.5,No,No,No,No major surgery,No,None
+Id1784,32.585,4.93,yes,No,No,1,No,Short
+Id1785,33.97,5.6,yes,No,No,No major surgery,No,None
+Id1786,16.57,9.99,No,No,No,No major surgery,No,None
+Id1787,17.55,5.93,No,No,Yes,1,No,Short
+Id1788,29.41,6.29,yes,No,No,1,No,Short
+Id1789,17.91,5.65,No,No,No,1,No,Short
+Id1790,31.57,6.15,No,No,No,1,No,Short
+Id1791,33.18,5.22,No,yes,No,1,No,Short
+Id1792,37,11.66,No,No,No,No major surgery,No,None
+Id1793,18.905,4.91,yes,No,No,1,No,Short
+Id1794,20.03,9.25,yes,No,No,No major surgery,No,None
+Id1795,16.7,11.48,No,No,No,No major surgery,No,None
+Id1796,39.82,6.06,No,No,No,No major surgery,No,None
+Id1797,22.04,5.86,No,No,No,1,No,Short
+Id1798,28.27,5.33,No,No,No,No major surgery,No,None
+Id1799,18.5,5.33,No,No,No,No major surgery,No,None
+Id1800,38.6,6.02,No,No,No,1,No,Short
+Id1801,43.12,6.25,No,No,No,1,No,Short
+Id1802,30.5,4.81,No,No,No,1,No,Short
+Id1803,27.61,4.6,No,No,No,1,No,Short
+Id1804,27.1,5.08,No,No,No,1,No,Short
+Id1805,35.93,5.43,No,yes,No,1,No,Short
+Id1806,32.68,5.44,No,No,No,No major surgery,No,None
+Id1807,20.74,11.69,yes,No,No,1,No,Short
+Id1808,15.57,6.07,No,No,No,No major surgery,No,None
+Id1809,23.845,4.36,No,No,No,No major surgery,No,None
+Id1810,22.895,5.24,No,No,No,1,No,Short
+Id1811,21.945,5.37,No,No,No,1,No,Short
+Id1812,19.47,6.6,yes,No,No,No major surgery,No,None
+Id1813,15.61,5.77,No,No,No,No major surgery,No,None
+Id1814,28.6,6.08,No,No,Yes,1,No,Short
+Id1815,46.53,4.16,No,No,No,No major surgery,No,None
+Id1816,34.99,5.1,No,No,Yes,1,No,Short
+Id1817,17.05,5.3,No,No,Yes,1,No,Short
+Id1818,37.18,4.9,No,No,No,No major surgery,No,None
+Id1819,35.2,5.55,No,No,No,No major surgery,No,None
+Id1820,37.335,4.95,No,No,No,No major surgery,No,None
+Id1821,27.265,6.46,yes,No,No,No major surgery,No,None
+Id1822,30.8,4.9,yes,No,No,No major surgery,No,None
+Id1823,30.21,5.21,No,No,No,1,No,Short
+Id1824,35.34,4.13,No,yes,No,1,No,Short
+Id1825,26.695,5.28,No,No,No,No major surgery,No,None
+Id1826,29.355,4.68,yes,No,No,No major surgery,No,None
+Id1827,29.59,4.06,No,No,No,No major surgery,No,None
+Id1828,31.35,4.2,No,yes,No,1,No,Short
+Id1829,20.52,4.83,No,No,No,No major surgery,No,None
+Id1830,42.9,4.87,yes,No,No,1,No,Short
+Id1831,24.6,5.86,No,No,Yes,1,No,Short
+Id1832,28.405,4.12,No,No,No,1,No,Short
+Id1833,34.675,5.71,yes,No,No,1,No,Short
+Id1834,18.85,6.03,No,No,No,1,No,Short
+Id1835,34.13,5.65,No,No,Yes,1,No,Short
+Id1836,17.34,5.05,No,No,No,No major surgery,No,None
+Id1837,17.44,6.26,No,No,No,No major surgery,No,None
+Id1838,33.66,4.08,yes,No,Yes,1,No,Short
+Id1839,21.375,6.19,yes,No,No,1,No,Short
+Id1840,27.14,6.01,No,No,No,1,No,Short
+Id1841,35.78,6.07,No,yes,No,1,No,Short
+Id1842,34.96,5.63,No,No,No,No major surgery,No,None
+Id1843,38.39,6.05,No,No,No,No major surgery,No,None
+Id1844,33.82,4.65,No,No,No,No major surgery,No,None
+Id1845,27.835,5.37,No,No,No,No major surgery,No,None
+Id1846,33,5.39,No,No,No,No major surgery,No,None
+Id1847,26.885,5.86,No,No,No,No major surgery,No,None
+Id1848,29.26,4.44,No,No,No,No major surgery,No,None
+Id1849,26.98,4.41,No,No,No,No major surgery,No,None
+Id1850,32.11,5.19,No,No,Yes,1,No,Short
+Id1851,31.73,5.16,No,No,Yes,1,No,Short
+Id1852,22.515,4.24,No,No,No,No major surgery,No,None
+Id1853,25.9,5.45,No,No,No,1,No,Short
+Id1854,27.72,5.03,yes,No,No,1,No,Short
+Id1855,31.5,9.62,yes,No,No,1,No,Short
+Id1856,29.7,6.77,yes,No,No,1,No,Short
+Id1857,21.26,5.36,yes,No,No,1,No,Short
+Id1858,17.09,5.69,No,No,No,No major surgery,No,None
+Id1859,24.3,4.9,yes,No,Yes,1,No,Short
+Id1860,29.735,5.78,No,No,No,No major surgery,No,None
+Id1861,29.26,4.7,No,No,No,No major surgery,No,None
+Id1862,33,6.28,No,No,No,No major surgery,No,None
+Id1863,31.065,4.23,No,No,No,No major surgery,No,None
+Id1864,26.51,6.17,No,No,No,No major surgery,No,None
+Id1865,28.88,4.96,No,No,No,No major surgery,No,None
+Id1866,35.815,5.11,yes,No,No,1,No,Short
+Id1867,21.28,4.05,No,yes,No,1,No,Short
+Id1868,33.81,6.49,No,No,Yes,1,No,Short
+Id1869,44.22,4.19,No,No,No,1,No,Short
+Id1870,15.46,4.99,yes,No,Yes,1,No,Short
+Id1871,30.3,4.77,yes,No,No,1,No,Short
+Id1872,16.67,5.46,No,No,No,No major surgery,No,None
+Id1873,28.595,5.43,No,No,No,No major surgery,No,None
+Id1874,25.935,4.29,No,No,No,No major surgery,No,None
+Id1875,27.645,5.25,No,No,No,1,No,Short
+Id1876,30.1,4.04,No,No,No,1,No,Short
+Id1877,26.79,5,yes,No,Yes,1,No,Short
+Id1878,27.1,4.01,yes,No,No,1,No,Short
+Id1879,24.31,5.4,No,No,No,No major surgery,No,None
+Id1880,15.53,5.81,No,No,No,1,No,Short
+Id1881,30.7,5.82,No,No,No,1,No,Short
+Id1882,33.33,4.82,No,No,No,1,No,Short
+Id1883,32.4,5.08,No,No,No,1,No,Short
+Id1884,27.93,5.59,No,No,No,1,No,Short
+Id1885,21.755,5.12,No,No,No,No major surgery,No,None
+Id1886,25.935,4.95,No,No,No,No major surgery,No,None
+Id1887,31.5,6.16,No,No,No,No major surgery,No,None
+Id1888,30.03,6.41,No,No,No,No major surgery,No,None
+Id1889,33.48,8.94,No,No,No,No major surgery,No,None
+Id1890,16.51,4.42,yes,No,Yes,1,No,Short
+Id1891,33.155,5.3,yes,No,No,1,No,Short
+Id1892,37.29,4.64,No,No,Yes,1,No,Short
+Id1893,20.23,6.16,yes,No,No,1,No,Short
+Id1894,28.975,4.12,No,No,Yes,1,No,Short
+Id1895,16.42,5.77,yes,No,Yes,1,No,Short
+Id1896,17.56,6.2,No,No,No,1,No,Short
+Id1897,24.13,4.39,No,No,No,1,No,Short
+Id1898,19.95,5.13,No,yes,No,2,No,Moderate
+Id1899,21.24,4.49,No,No,No,No major surgery,No,None
+Id1900,44.22,6.35,No,No,No,No major surgery,No,None
+Id1901,41.1,5.79,No,No,No,No major surgery,No,None
+Id1902,34.2,4.78,yes,No,No,No major surgery,No,None
+Id1903,29.92,6.02,yes,No,No,No major surgery,No,None
+Id1904,28.93,4.44,No,No,No,No major surgery,No,None
+Id1905,31.255,5.84,yes,No,No,1,No,Short
+Id1906,29.83,5.39,No,No,No,No major surgery,No,None
+Id1907,29.59,6.16,No,No,Yes,1,No,Short
+Id1908,31.16,4.49,No,No,Yes,1,No,Short
+Id1909,34.21,4.48,yes,No,No,1,No,Short
+Id1910,34.86,10.97,No,No,No,No major surgery,No,None
+Id1911,34.58,5.14,No,yes,No,2,No,Moderate
+Id1912,17.94,5.17,yes,No,No,No major surgery,No,None
+Id1913,26.8,6.18,yes,No,Yes,1,No,Short
+Id1914,17.69,9.07,yes,No,No,No major surgery,No,None
+Id1915,25.77,4.43,No,No,Yes,1,No,Short
+Id1916,34.46,4.17,No,yes,No,1,No,Short
+Id1917,30.875,4.95,yes,No,No,No major surgery,No,None
+Id1918,39.49,5.13,No,No,No,No major surgery,No,None
+Id1919,28.88,4.1,No,No,No,No major surgery,No,None
+Id1920,20.235,5.01,yes,No,No,No major surgery,No,None
+Id1921,30.67,5.09,yes,No,No,No major surgery,No,None
+Id1922,30.875,6.49,No,No,No,No major surgery,No,None
+Id1923,23.8,4.08,No,No,No,No major surgery,No,None
+Id1924,15.37,8.63,yes,No,No,No major surgery,No,None
+Id1925,30.4,5.28,No,No,No,No major surgery,No,None
+Id1926,19.48,5.63,yes,No,No,1,No,Short
+Id1927,16.96,11.47,yes,No,No,No major surgery,No,None
+Id1928,19.05,4.92,No,No,No,1,No,Short
+Id1929,37.62,4.18,No,No,No,No major surgery,No,None
+Id1930,29.1,4.67,No,No,No,No major surgery,No,None
+Id1931,26.62,6.24,No,No,No,No major surgery,No,None
+Id1932,25.74,5.99,No,No,No,No major surgery,No,None
+Id1933,18.22,10.27,yes,No,No,1,No,Short
+Id1934,26.03,5.97,No,No,Yes,1,No,Short
+Id1935,17.29,4.98,No,No,No,No major surgery,No,None
+Id1936,18.17,6.91,yes,No,No,1,No,Short
+Id1937,32.54,6.38,No,yes,No,1,No,Short
+Id1938,30.25,4.77,No,No,No,No major surgery,No,None
+Id1939,19.59,6.04,yes,No,No,1,No,Short
+Id1940,45.9,4.3,yes,No,No,1,No,Short
+Id1941,17.06,8.75,yes,No,No,No major surgery,No,None
+Id1942,32.07,5.25,No,No,Yes,1,No,Short
+Id1943,16.5,5.03,No,No,No,1,No,Short
+Id1944,31.4,5.88,No,No,No,1,No,Short
+Id1945,20.36,4.49,No,No,No,No major surgery,No,None
+Id1946,25.46,4.14,No,No,No,1,No,Short
+Id1947,17.09,5.8,yes,No,No,No major surgery,No,None
+Id1948,20.83,5.12,No,No,No,No major surgery,No,None
+Id1949,18.92,5.98,yes,No,No,1,No,Short
+Id1950,37.1,5.46,No,No,No,No major surgery,No,None
+Id1951,22.515,4.91,yes,No,Yes,1,No,Short
+Id1952,32.7,4.66,No,No,No,No major surgery,No,None
+Id1953,17.75,6.8,yes,No,No,1,No,Short
+Id1954,33.63,4.47,yes,No,No,No major surgery,No,None
+Id1955,34.8,4.08,yes,No,No,1,No,Short
+Id1956,16.81,5.51,yes,No,No,1,No,Short
+Id1957,16.69,8.4,yes,No,No,No major surgery,No,None
+Id1958,23.21,5.14,yes,No,No,1,No,Short
+Id1959,25.175,5.21,yes,No,No,1,No,Short
+Id1960,34.77,6.23,No,No,No,No major surgery,No,None
+Id1961,27.7,5.6,No,No,No,1,No,Short
+Id1962,19.12,4.72,yes,No,No,1,No,Short
+Id1963,32.67,4.67,No,No,Yes,1,No,Short
+Id1964,28.5,6.11,No,No,No,1,No,Short
+Id1965,39.27,6.25,No,No,No,No major surgery,No,None
+Id1966,32.49,4,yes,No,No,No major surgery,No,None
+Id1967,23.7,5.55,yes,No,No,No major surgery,No,None
+Id1968,30.4,5.95,No,yes,No,1,No,Short
+Id1969,38.94,4.36,No,No,Yes,1,No,Short
+Id1970,31.02,4.84,No,No,Yes,1,No,Short
+Id1971,17.5,4.56,No,No,No,1,No,Short
+Id1972,34.8,4.42,yes,yes,No,2,No,Moderate
+Id1973,17.3,7.66,yes,No,No,1,No,Short
+Id1974,32.25,5.2,yes,No,No,No major surgery,No,None
+Id1975,42.4,5.53,yes,No,No,No major surgery,No,None
+Id1976,38.665,4.86,No,yes,No,1,No,Short
+Id1977,29.92,5.49,yes,No,No,No major surgery,No,None
+Id1978,29.48,4.09,yes,No,No,No major surgery,No,None
+Id1979,28.785,4.31,yes,No,No,No major surgery,No,None
+Id1980,19.8,4,yes,No,No,No major surgery,No,None
+Id1981,35.53,4.68,No,No,Yes,1,No,Short
+Id1982,21.47,4.02,yes,No,No,1,No,Short
+Id1983,25.9,5.12,No,No,Yes,1,No,Short
+Id1984,20.81,5.52,No,No,No,No major surgery,No,None
+Id1985,25.84,5.81,yes,No,Yes,1,No,Short
+Id1986,30.95,5.16,No,No,Yes,1,No,Short
+Id1987,30.54,5,No,No,Yes,1,No,Short
+Id1988,33.915,5.84,yes,No,No,No major surgery,No,None
+Id1989,33.31,4.19,No,No,Yes,1,No,Short
+Id1990,25.745,4.62,yes,No,No,No major surgery,No,None
+Id1991,37.1,6.24,No,No,No,No major surgery,No,None
+Id1992,35.435,5.81,No,No,No,No major surgery,No,None
+Id1993,20.4,4.83,No,No,No,No major surgery,No,None
+Id1994,42.13,5.72,yes,No,Yes,1,No,Short
+Id1995,33.99,4.83,yes,No,Yes,1,No,Short
+Id1996,28.595,4.14,yes,No,Yes,1,No,Short
+Id1997,20.8,4.07,yes,No,Yes,1,No,Short
+Id1998,23.465,6.26,yes,No,Yes,1,No,Short
+Id1999,40.185,5.88,yes,No,No,No major surgery,No,None
+Id2000,21.89,5.72,yes,No,No,No major surgery,No,None
+Id2001,29.34,6.09,yes,yes,No,2,No,Moderate
+Id2002,22.61,4.25,yes,No,No,No major surgery,No,None
+Id2003,22.23,6.09,yes,No,No,No major surgery,No,None
+Id2004,33.4,5.51,No,No,No,No major surgery,No,None
+Id2005,33.11,5.63,No,No,No,No major surgery,No,None
+Id2006,16.815,5.29,yes,No,No,No major surgery,No,None
+Id2007,25.61,4,No,No,Yes,1,No,Short
+Id2008,25.8,5.49,No,No,No,No major surgery,No,None
+Id2009,27.39,5.34,No,No,No,No major surgery,No,None
+Id2010,17.03,4.12,No,No,No,1,No,Short
+Id2011,23.75,5.49,yes,No,No,No major surgery,No,None
+Id2012,26.03,5.11,yes,No,No,1,No,Short
+Id2013,16.08,5.94,No,No,No,No major surgery,No,None
+Id2014,30.875,5.54,No,No,No,No major surgery,No,None
+Id2015,31.79,7.09,No,No,No,No major surgery,No,None
+Id2016,28.48,6.22,yes,No,Yes,1,No,Short
+Id2017,26.6,4.33,No,No,No,1,No,Short
+Id2018,25.27,5.83,No,No,No,1,No,Short
+Id2019,34.485,4.7,yes,No,Yes,1,No,Short
+Id2020,15.57,4.07,yes,No,No,1,No,Short
+Id2021,30.36,9.39,No,No,No,No major surgery,No,None
+Id2022,19.37,4.18,No,No,No,No major surgery,No,None
+Id2023,16.71,4.18,No,No,No,1,No,Short
+Id2024,24.1,4.4,yes,No,No,1,No,Short
+Id2025,29.77,9.9,No,No,No,No major surgery,No,None
+Id2026,46.53,4.84,yes,No,No,No major surgery,No,None
+Id2027,23.4,5.53,No,No,Yes,1,No,Short
+Id2028,30,4.33,yes,No,No,No major surgery,No,None
+Id2029,29.15,4.91,yes,No,No,No major surgery,No,None
+Id2030,34.865,4.8,No,No,No,No major surgery,No,None
+Id2031,28.12,5.55,yes,yes,No,2,No,Moderate
+Id2032,29.45,5.24,yes,No,No,No major surgery,No,None
+Id2033,27.94,6.08,No,No,Yes,1,No,Short
+Id2034,27.2,5.83,No,No,Yes,1,No,Short
+Id2035,33.345,4.29,No,No,No,1,No,Short
+Id2036,29.925,5.3,No,No,No,1,No,Short
+Id2037,24.225,4.42,No,No,No,1,No,Short
+Id2038,29.68,5.68,No,yes,No,1,No,Short
+Id2039,20.615,6.05,No,No,Yes,1,No,Short
+Id2040,32.12,5.33,No,yes,No,1,No,Short
+Id2041,27.36,6.22,No,No,No,No major surgery,No,None
+Id2042,17.385,5.84,No,No,No,No major surgery,No,None
+Id2043,30.13,5.71,No,yes,No,1,No,Short
+Id2044,25.44,6.04,yes,No,Yes,1,No,Short
+Id2045,39.805,4.38,No,yes,No,1,No,Short
+Id2046,30.4,5.56,yes,yes,No,1,No,Short
+Id2047,23.18,4.24,No,yes,No,1,No,Short
+Id2048,39.615,6.32,No,No,Yes,1,No,Short
+Id2049,30.59,6.3,yes,No,Yes,1,No,Short
+Id2050,16.72,4.38,yes,No,No,1,No,Short
+Id2051,26.22,4.65,yes,No,Yes,1,No,Short
+Id2052,31.825,4.7,No,No,Yes,1,No,Short
+Id2053,25.745,4.34,No,No,Yes,1,No,Short
+Id2054,24.605,5.62,No,No,Yes,1,No,Short
+Id2055,24.51,4.24,No,No,Yes,1,No,Short
+Id2056,31.065,4.57,yes,No,No,No major surgery,No,None
+Id2057,28.12,5.05,No,No,No,No major surgery,No,None
+Id2058,38.06,6.16,No,No,No,No major surgery,No,None
+Id2059,24.96,4.57,No,No,No,No major surgery,No,None
+Id2060,17.67,5.53,yes,No,No,No major surgery,No,None
+Id2061,31.35,5.84,No,yes,No,1,No,Short
+Id2062,28.31,6.41,No,yes,No,1,No,Short
+Id2063,30.3,4.73,yes,No,Yes,1,No,Short
+Id2064,26.4,6.22,yes,No,No,No major surgery,No,None
+Id2065,22.135,4.46,yes,No,No,No major surgery,No,None
+Id2066,17.4,4.5,yes,No,No,No major surgery,No,None
+Id2067,28.06,8.93,No,No,No,No major surgery,No,None
+Id2068,31.13,11.02,No,No,No,No major surgery,No,None
+Id2069,18.46,5.25,No,No,No,No major surgery,No,None
+Id2070,17.3,4.75,No,No,No,No major surgery,No,None
+Id2071,35.625,4.68,yes,No,Yes,1,No,Short
+Id2072,20.235,6.17,yes,yes,No,2,No,Moderate
+Id2073,27.55,4.56,yes,No,Yes,1,No,Short
+Id2074,17.97,6.3,No,No,No,No major surgery,No,None
+Id2075,29.98,6.03,No,yes,No,1,No,Short
+Id2076,33.66,4.2,yes,No,No,1,No,Short
+Id2077,32.67,5.61,yes,No,No,1,No,Short
+Id2078,30.5,5.88,yes,No,No,1,No,Short
+Id2079,23.1,5.92,yes,No,No,1,No,Short
+Id2080,39.49,4.81,No,No,No,1,No,Short
+Id2081,33.99,4.55,No,No,No,1,No,Short
+Id2082,27.72,6.43,No,No,No,1,No,Short
+Id2083,30.59,11.62,No,No,No,No major surgery,No,None
+Id2084,22.6,6.04,No,No,No,1,No,Short
+Id2085,28.785,8.82,No,No,No,No major surgery,No,None
+Id2086,50.38,5.8,No,No,No,No major surgery,No,None
+Id2087,35.2,4.28,No,No,No,No major surgery,No,None
+Id2088,35.72,5.5,yes,No,No,No major surgery,No,None
+Id2089,24.51,4.69,No,No,No,No major surgery,No,None
+Id2090,23.845,4.43,No,No,No,No major surgery,No,None
+Id2091,15.68,6.16,yes,No,No,1,No,Short
+Id2092,32.395,6.66,No,No,No,No major surgery,No,None
+Id2093,23.655,5.92,No,No,No,1,No,Short
+Id2094,28.4,5.97,No,No,Yes,1,No,Short
+Id2095,35.42,4.64,yes,No,No,No major surgery,No,None
+Id2096,26.18,6.12,No,yes,No,1,No,Short
+Id2097,20.8,4.87,yes,No,No,No major surgery,No,None
+Id2098,15.82,4.6,No,No,No,No major surgery,No,None
+Id2099,17.67,4.78,No,No,No,No major surgery,No,None
+Id2100,31.92,11.05,No,No,No,No major surgery,No,None
+Id2101,28.975,7.62,No,No,No,No major surgery,No,None
+Id2102,31.73,4.78,yes,yes,No,2,No,Moderate
+Id2103,28.88,6.09,yes,yes,No,2,No,Moderate
+Id2104,25.555,5.11,No,No,Yes,1,No,Short
+Id2105,37.29,4.46,No,yes,No,1,No,Short
+Id2106,40.28,6.11,No,yes,No,1,No,Short
+Id2107,40.185,4.66,No,yes,No,1,No,Short
+Id2108,23.57,6.14,No,No,No,No major surgery,No,None
+Id2109,35.625,6.21,No,yes,No,1,No,Short
+Id2110,33.155,4.6,No,yes,No,1,No,Short
+Id2111,31.92,5.04,No,yes,No,1,No,Short
+Id2112,30.305,5.08,No,yes,No,1,No,Short
+Id2113,30.115,4.38,No,yes,No,1,No,Short
+Id2114,24.09,4.79,No,yes,No,1,No,Short
+Id2115,28.215,4.21,No,yes,No,1,No,Short
+Id2116,26.315,5.47,No,yes,No,1,No,Short
+Id2117,25.08,5.09,No,yes,No,1,No,Short
+Id2118,15.41,5.08,No,No,No,No major surgery,No,None
+Id2119,23.83,5.68,No,No,No,No major surgery,No,None
+Id2120,36,4.66,No,yes,No,1,No,Short
+Id2121,28.82,5.59,No,yes,No,1,No,Short
+Id2122,28.05,6.2,No,yes,No,1,No,Short
+Id2123,27.1,4.45,No,yes,No,1,No,Short
+Id2124,24.3,6.1,yes,yes,No,1,No,Short
+Id2125,30.72,6.06,No,yes,No,1,No,Short
+Id2126,37.43,4.56,No,No,Yes,1,No,Short
+Id2127,25.74,6.41,yes,No,Yes,1,No,Short
+Id2128,36.575,5.57,No,No,Yes,1,No,Short
+Id2129,35.15,5.47,No,No,Yes,1,No,Short
+Id2130,32.11,4.43,No,No,Yes,1,No,Short
+Id2131,30.495,4.95,No,No,Yes,1,No,Short
+Id2132,29.24,4.04,No,yes,No,1,No,Short
+Id2133,22.515,5.93,No,No,Yes,1,No,Short
+Id2134,15.65,4.23,No,No,No,No major surgery,No,None
+Id2135,27.36,5.59,yes,No,No,No major surgery,No,None
+Id2136,22.3,4.89,yes,No,No,No major surgery,No,None
+Id2137,26.03,5.81,yes,No,No,No major surgery,No,None
+Id2138,27.74,4.29,No,yes,No,1,No,Short
+Id2139,32.11,4.03,yes,yes,No,2,No,Moderate
+Id2140,25.175,6.29,yes,yes,No,2,No,Moderate
+Id2141,39.49,4.48,yes,No,No,No major surgery,No,None
+Id2142,34.87,5.51,yes,No,No,No major surgery,No,None
+Id2143,34.6,4.5,yes,No,No,No major surgery,No,None
+Id2144,25.8,6.29,yes,No,No,No major surgery,No,None
+Id2145,35.86,4.33,No,No,No,1,No,Short
+Id2146,40.47,11.15,No,No,No,No major surgery,No,None
+Id2147,32.01,6.45,No,No,No,1,No,Short
+Id2148,33,9.27,No,No,No,No major surgery,No,None
+Id2149,29.3,6.15,No,No,No,1,No,Short
+Id2150,25.8,4.13,No,No,No,1,No,Short
+Id2151,23.4,4.24,No,No,No,1,No,Short
+Id2152,27.93,9.88,No,No,No,No major surgery,No,None
+Id2153,22,9.5,No,No,No,No major surgery,No,None
+Id2154,36.86,4.97,yes,No,No,No major surgery,No,None
+Id2155,31.255,5.49,yes,No,No,No major surgery,No,None
+Id2156,23.06,4.47,No,No,No,No major surgery,No,None
+Id2157,28.975,4.34,yes,No,No,No major surgery,No,None
+Id2158,33.3,9.49,No,No,No,No major surgery,No,None
+Id2159,33,10.16,No,No,No,No major surgery,No,None
+Id2160,31.46,11.19,No,No,No,No major surgery,No,None
+Id2161,29.6,11.03,No,No,No,No major surgery,No,None
+Id2162,22.05,4.43,yes,No,No,No major surgery,No,None
+Id2163,27.06,6.14,No,yes,No,1,No,Short
+Id2164,20.49,4.87,No,No,No,No major surgery,No,None
+Id2165,28.4,4.3,No,No,Yes,1,No,Short
+Id2166,41.91,6.19,No,No,No,No major surgery,No,None
+Id2167,24.6,6.19,No,No,Yes,1,No,Short
+Id2168,20.9,5.12,No,No,Yes,1,No,Short
+Id2169,34.4,4.04,No,No,No,No major surgery,No,None
+Id2170,32.56,5.36,No,No,No,No major surgery,No,None
+Id2171,27.98,4.38,No,yes,No,1,No,Short
+Id2172,26.51,4.58,No,No,No,No major surgery,No,None
+Id2173,29.735,11.92,No,No,No,No major surgery,No,None
+Id2174,40.5,5.4,No,No,Yes,1,No,Short
+Id2175,25.64,4.76,No,No,No,1,No,Short
+Id2176,32.9,4.78,No,No,Yes,1,No,Short
+Id2177,29.8,4.26,No,No,Yes,1,No,Short
+Id2178,28.9,5.85,No,No,Yes,1,No,Short
+Id2179,24.7,5.32,No,No,Yes,1,No,Short
+Id2180,20.6,5.14,No,No,Yes,1,No,Short
+Id2181,18.6,5,No,No,Yes,1,No,Short
+Id2182,17.8,4.55,No,No,Yes,1,No,Short
+Id2183,35.2,5.97,No,yes,No,1,No,Short
+Id2184,33.77,4.02,No,yes,No,1,No,Short
+Id2185,30.03,4.04,No,yes,No,1,No,Short
+Id2186,29.37,5.54,No,yes,No,1,No,Short
+Id2187,28.5,4.03,No,yes,No,1,No,Short
+Id2188,23.32,5.62,No,yes,No,1,No,Short
+Id2189,26.125,5.27,No,yes,No,1,No,Short
+Id2190,25.46,5.18,No,yes,No,1,No,Short
+Id2191,23.75,5.27,No,yes,No,1,No,Short
+Id2192,23.085,5.62,No,yes,No,1,No,Short
+Id2193,22.99,5.06,No,yes,No,1,No,Short
+Id2194,21.47,4.69,No,yes,No,1,No,Short
+Id2195,15.96,5.44,No,yes,No,1,No,Short
+Id2196,39.5,5.05,No,yes,No,1,No,Short
+Id2197,33.77,6,No,yes,No,1,No,Short
+Id2198,26.84,5.99,yes,yes,No,1,No,Short
+Id2199,35.53,4.36,No,No,Yes,1,No,Short
+Id2200,30.59,4.41,No,No,Yes,1,No,Short
+Id2201,30.59,4.17,No,No,Yes,1,No,Short
+Id2202,27.835,4.44,No,No,Yes,1,No,Short
+Id2203,40.26,5.52,No,yes,No,1,No,Short
+Id2204,39.82,6.01,No,yes,No,1,No,Short
+Id2205,39.16,5.81,No,yes,No,1,No,Short
+Id2206,25.555,4.37,No,No,Yes,1,No,Short
+Id2207,25.175,5.74,No,No,Yes,1,No,Short
+Id2208,38.28,5.39,No,yes,No,1,No,Short
+Id2209,38.17,4.07,No,yes,No,1,No,Short
+Id2210,36.85,5.49,No,yes,No,1,No,Short
+Id2211,22.61,5.68,No,No,Yes,1,No,Short
+Id2212,21.755,6.09,No,No,Yes,1,No,Short
+Id2213,20.425,5.53,No,No,Yes,1,No,Short
+Id2214,31.35,4.28,No,yes,No,1,No,Short
+Id2215,31.13,6.01,No,yes,No,1,No,Short
+Id2216,17.48,4.59,No,No,Yes,1,No,Short
+Id2217,22.57,5.8,yes,No,No,1,No,Short
+Id2218,26.73,5.08,No,yes,No,1,No,Short
+Id2219,20.79,5.84,No,yes,No,1,No,Short
+Id2220,20.15,4.15,No,No,No,1,No,Short
+Id2221,36.85,4.36,yes,No,No,No major surgery,No,None
+Id2222,35.53,4.55,yes,No,No,No major surgery,No,None
+Id2223,31.1,4.37,yes,No,No,No major surgery,No,None
+Id2224,23.21,5.24,yes,No,No,No major surgery,No,None
+Id2225,18.36,5.96,No,No,No,1,No,Short
+Id2226,15.92,4.76,yes,No,No,1,No,Short
+Id2227,15.17,4.3,yes,No,Yes,1,No,Short
+Id2228,16.63,4.5,No,No,No,1,No,Short
+Id2229,19.39,5.59,No,No,Yes,1,No,Short
+Id2230,17.34,6.29,yes,No,Yes,1,No,Short
+Id2231,17.94,4.19,No,yes,No,1,No,Short
+Id2232,16.67,4.7,yes,No,Yes,1,No,Short
+Id2233,20.58,5.64,yes,No,No,No major surgery,No,None
+Id2234,16.5,4.11,yes,No,No,No major surgery,No,None
+Id2235,15.41,5.43,yes,No,Yes,1,No,Short
+Id2236,24.59,4.38,No,No,No,1,No,Short
+Id2237,33.33,9.79,No,No,No,No major surgery,No,None
+Id2238,18.5,11.84,No,No,No,No major surgery,No,None
+Id2239,18.58,6.22,No,No,No,No major surgery,No,None
+Id2240,16.64,10.01,No,No,No,No major surgery,No,None
+Id2241,19.33,4.32,No,No,No,1,No,Short
+Id2242,21.26,5.65,yes,No,Yes,1,No,Short
+Id2243,15.6,4.12,yes,No,No,1,No,Short
+Id2244,24.39,6.24,No,No,No,1,No,Short
+Id2245,24.75,4.83,No,No,No,No major surgery,No,None
+Id2246,20.88,7.4,No,No,No,No major surgery,No,None
+Id2247,20.43,4.54,No,No,No,No major surgery,No,None
+Id2248,15.18,11.11,No,No,No,No major surgery,No,None
+Id2249,15.12,4.03,yes,No,No,No major surgery,No,None
+Id2250,23.88,4.51,No,No,No,1,No,Short
+Id2251,16.13,5.56,No,yes,No,1,No,Short
+Id2252,24.09,4.1,No,yes,No,1,No,Short
+Id2253,19.43,5.85,No,yes,No,1,No,Short
+Id2254,15.22,4.92,yes,No,Yes,1,No,Short
+Id2255,20.72,9.46,No,No,No,No major surgery,No,None
+Id2256,35.4,5.94,No,No,Yes,1,No,Short
+Id2257,34.4,5.7,No,No,Yes,1,No,Short
+Id2258,34.1,4.13,No,No,Yes,1,No,Short
+Id2259,30.4,4.77,No,No,Yes,1,No,Short
+Id2260,28.7,4.99,No,No,Yes,1,No,Short
+Id2261,17.44,4.42,yes,No,Yes,1,No,Short
+Id2262,27.6,4.01,No,No,Yes,1,No,Short
+Id2263,20.7,4.49,No,No,Yes,1,No,Short
+Id2264,20.3,6.37,No,No,Yes,1,No,Short
+Id2265,19.8,5.12,No,No,Yes,1,No,Short
+Id2266,21.87,8.59,No,No,No,No major surgery,No,None
+Id2267,16.6,5.87,No,No,No,1,No,Short
+Id2268,21.98,7.03,No,No,No,No major surgery,No,None
+Id2269,19.7,5.51,No,No,No,1,No,Short
+Id2270,19.21,4.76,No,yes,No,1,No,Short
+Id2271,19.3,4.7,No,yes,No,1,No,Short
+Id2272,16.22,6.21,yes,No,No,No major surgery,No,None
+Id2273,17.12,4.52,No,yes,No,1,No,Short
+Id2274,19.07,5.45,No,No,No,1,No,Short
+Id2275,15.56,4.42,No,No,No,No major surgery,No,None
+Id2276,22.76,9.44,No,No,No,No major surgery,No,None
+Id2277,22.79,6.15,yes,No,Yes,1,No,Short
+Id2278,17.41,5.13,yes,No,No,No major surgery,No,None
+Id2279,19.32,4.96,yes,No,No,No major surgery,No,None
+Id2280,18.25,10.95,No,No,No,No major surgery,No,None
+Id2281,53.13,4.44,No,yes,No,1,No,Short
+Id2282,20.46,4.02,No,No,No,No major surgery,No,None
+Id2283,43.01,5.44,No,yes,No,1,No,Short
+Id2284,15.01,4.15,No,No,Yes,1,No,Short
+Id2285,41.14,6.02,No,yes,No,1,No,Short
+Id2286,16.55,7.73,No,No,No,No major surgery,No,None
+Id2287,37.29,5.03,No,yes,No,1,No,Short
+Id2288,16.74,4.08,yes,No,No,No major surgery,No,None
+Id2289,34.43,4.27,No,yes,No,1,No,Short
+Id2290,34.1,4.07,No,yes,No,1,No,Short
+Id2291,19.3,10.36,No,No,No,No major surgery,No,None
+Id2292,33.66,5.71,No,yes,No,1,No,Short
+Id2293,33.33,6.08,No,yes,No,1,No,Short
+Id2294,21.84,5.71,No,yes,No,1,No,Short
+Id2295,16.87,9.13,No,No,No,No major surgery,No,None
+Id2296,30.14,5.49,No,yes,No,1,No,Short
+Id2297,23.21,4.37,No,yes,No,1,No,Short
+Id2298,17.17,8.46,No,No,No,No major surgery,No,None
+Id2299,15.61,5.28,No,No,No,1,No,Short
+Id2300,17.98,5.33,yes,No,Yes,1,No,Short
+Id2301,21.64,5.5,No,yes,No,1,No,Short
+Id2302,16.4,5.4,No,No,Yes,1,No,Short
+Id2303,15.77,6.05,yes,No,No,1,No,Short
+Id2304,18.27,11.46,No,No,No,No major surgery,No,None
+Id2305,16.49,8.48,No,No,No,No major surgery,No,None
+Id2306,16.14,4.86,No,No,No,No major surgery,No,None
+Id2307,20.85,4.45,yes,No,No,1,No,Short
+Id2308,15.88,4.36,No,No,No,No major surgery,No,None
+Id2309,20.66,5.8,No,yes,No,1,No,Short
+Id2310,20.4,5.27,No,No,No,No major surgery,No,None
+Id2311,25.19,5.64,yes,No,No,No major surgery,No,None
+Id2312,20.54,4.2,yes,No,No,1,No,Short
+Id2313,20.13,5.42,No,No,No,No major surgery,No,None
+Id2314,18.93,6.11,No,No,Yes,1,No,Short
+Id2315,24.14,5.29,No,yes,No,1,No,Short
+Id2316,25.03,5.91,No,yes,No,1,No,Short
+Id2317,20.47,5.81,yes,No,No,1,No,Short
+Id2318,18.82,5.51,yes,No,No,No major surgery,No,None
+Id2319,17.08,5.73,No,No,Yes,1,No,Short
+Id2320,19.21,5.53,yes,No,No,No major surgery,No,None
+Id2321,17.86,5.43,No,No,Yes,1,No,Short
+Id2322,21.38,8.01,No,No,No,No major surgery,No,None
+Id2323,23.35,5.94,No,No,No,No major surgery,No,None
+Id2324,22.24,5.04,No,No,No,No major surgery,No,None
+Id2325,24.76,4.54,yes,No,No,No major surgery,No,None
+Id2326,20.1,5.6,yes,No,Yes,1,No,Short
+Id2327,21.77,10.67,No,No,No,No major surgery,No,None
+Id2328,17.82,5.26,yes,No,No,1,No,Short
+Id2329,17.07,5.22,No,No,Yes,1,No,Short
+Id2330,22.24,4.29,yes,No,No,No major surgery,No,None
+Id2331,22.34,5.57,No,No,No,1,No,Short
+Id2332,17.7,6.28,No,No,No,1,No,Short
+Id2333,16.47,6.35,No,No,Yes,1,No,Short
+Id2334,17.6,4.39,No,No,No,1,No,Short
+Id2335,17.58,4.51,No,No,No,1,No,Short
+Id61,38.06,6.04,No,No,Yes,1,yes,Short
+Id62,51.48,9.33,yes,No,No,No major surgery,yes,None
+Id63,52.06,11.47,No,No,No,No major surgery,yes,None
+Id64,30.685,7.02,yes,No,No,No major surgery,yes,None
+Id65,36.08,8.8,yes,No,No,1,yes,Short
+Id66,54.99,8.68,No,No,No,2,yes,Moderate
+Id67,35.97,6.12,No,No,Yes,1,yes,Short
+Id68,45.54,5.4,yes,No,Yes,1,yes,Short
+Id69,35.53,4.36,yes,No,No,No major surgery,yes,None
+Id70,30.8,9.77,No,No,No,No major surgery,yes,None
+Id71,38.39,4.25,No,No,No,1,yes,Short
+Id72,32.3,4.76,No,No,No,2,yes,Moderate
+Id73,48.8,6.22,yes,No,No,2,yes,Moderate
+Id74,45.5,7.96,No,No,No,No major surgery,yes,None
+Id75,53.61,10.92,yes,No,No,1,yes,Short
+Id76,36.19,11.51,yes,No,No,1,yes,Short
+Id77,34.6,5.99,yes,No,No,No major surgery,yes,None
+Id78,54.12,11.57,No,No,No,No major surgery,yes,None
+Id79,48.82,6.67,yes,No,No,No major surgery,yes,None
+Id80,51.01,9.2,No,No,No,No major surgery,yes,None
+Id81,45.65,5.11,yes,No,No,1,yes,Short
+Id82,52.9,5.34,No,No,No,No major surgery,yes,None
+Id83,45.41,4.03,yes,No,No,1,yes,Short
+Id84,49.41,4.23,yes,No,Yes,1,yes,Short
+Id85,31.825,4.06,No,No,No,2,yes,Moderate
+Id119,46.39,5.09,No,No,No,No major surgery,yes,None
+Id120,42.13,5.2,yes,No,No,1,yes,Short
+Id121,30.78,8.45,yes,No,No,No major surgery,yes,None
+Id122,31.35,9.54,No,No,No,No major surgery,yes,None
+Id123,41.46,4.99,yes,No,No,2,yes,Moderate
+Id124,48,10.54,No,No,No,No major surgery,yes,None
+Id125,49.13,4.54,No,No,No,No major surgery,yes,None
+Id126,37.8,6.29,No,No,No,1,yes,Short
+Id127,38.3,9.51,No,No,No,No major surgery,yes,None
+Id128,32.775,4.72,No,No,No,No major surgery,yes,None
+Id129,34.2,5.91,yes,No,No,No major surgery,yes,None
+Id130,30.2,9.58,No,No,No,No major surgery,yes,None
+Id131,48.32,5.77,No,No,No,No major surgery,yes,None
+Id132,44.86,4.38,yes,No,No,No major surgery,yes,None
