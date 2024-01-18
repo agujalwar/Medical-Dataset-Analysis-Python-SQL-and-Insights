@@ -2,7 +2,9 @@
 
 # Medical Dataset Analysis: Python, SQL, and Insights · Jan 2024
 
-This project focuses on three critical datasets: "hospitalization_details," "medical_examinations," and "names." Divided into two essential modules, the project commences with meticulous data cleaning, ensuring the data's accuracy and structure. Once the data shines brilliantly, the second module unleashes the power of SQL queries to extract valuable insights.
+  The primary goal of this project is to conduct a comprehensive analysis of healthcare data, aiming to uncover valuable insights that have the potential to revolutionize decision-making in healthcare and optimize resource allocation for the betterment of patients' lives. 
+  The project centers around three crucial datasets: "hospitalization_details," "medical_examinations," and "names." It is structured into three key modules, with the initial phase dedicated to thorough data cleaning to ensure accuracy and proper structure. Once the data is refined, the second module leverages the power of SQL queries to extract meaningful and actionable insights. 
+  The third module takes a step further by visualizing the data through a meaningful and interactive Power BI Dashboard. This visualization not only facilitates a better understanding of the insights but also provides a user-friendly interface for stakeholders to interact with the data. This multi-faceted approach aims to make a substantial impact on healthcare decision-making and resource optimization, ultimately leading to positive outcomes for patients and the healthcare system as a whole.
 
 ### Summary of my work:
 • Enhanced healthcare decisions through Python and SQL data analytics.
