@@ -72,7 +72,7 @@ ORDER by numberofmajorsurgeries DESC
 LIMIT 1
 ----------------------------------------------------------------------------------------------------------------------------
 Task 10: Customers with Major Surgeries and City Tiers
-In this project, we compile a list of customers who have undergone major surgeries and their respective cities' tier levels (city_tier) from the hospitalization_details table. This analysis provides insights into the distribution of major surgeries across different city tiers, aiding in healthcare planning, resource allocation, and assessing the impact of city tiers on surgical cases.
+In this project, we compile a list of customers who have undergone major surgeries and their respective cities tier levels (city_tier) from the hospitalization_details table. This analysis provides insights into the distribution of major surgeries across different city tiers, aiding in healthcare planning, resource allocation, and assessing the impact of city tiers on surgical cases.
 
 SELECT name,hd.customer_id,city_tier
 FROM medical_examinations me 
