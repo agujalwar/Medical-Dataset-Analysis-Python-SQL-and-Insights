@@ -7,9 +7,8 @@ Task 1: Data Download, Import, and Database Connection
 
 Task 2: Average Hospital Charges Analysis
 In this project, we aim to analyze a medical dataset to determine the average hospital charges. This analysis can provide essential insights into healthcare cost trends, helping hospitals and patients understand the financial aspects of medical care. By calculating the average hospital charges, we gain valuable information for financial planning, cost optimization, and transparency in healthcare services.
-```sql
+
 SELECT AVG(charges) FROM hospitalization_details 
-```
 ----------------------------------------------------------------------------------------------------------------------------
 Task 3: High Charges Analysis
 This project focuses on identifying unique customer identifiers, corresponding years, and charges from a specific medical dataset, specifically for records where charges exceed 700. By retrieving this data, we can gain insights into cases of exceptionally high hospital charges, which can inform further investigation, cost control strategies, and patient financial support.
@@ -115,6 +114,7 @@ having max(hd.charges) = (SELECT max(charges) FROM hospitalization_details where
 Task 14: Top 3 Customers with Highest Average Yearly Charges
 This project focuses on identifying the top 3 customers with the highest average yearly charges over the years they have been hospitalized. By calculating and analyzing the average yearly charges from the hospitalization_details data and joining it with customer names, we can pinpoint those individuals with the highest healthcare expenditure. Understanding these patterns is essential for resource allocation and tailored healthcare planning.
 %%sql
+
 WITH YearlyCharges AS (
   SELECT h.customer_id, h.year, AVG(h.charges) AS avg_yearly_charge
   FROM hospitalization_details h
