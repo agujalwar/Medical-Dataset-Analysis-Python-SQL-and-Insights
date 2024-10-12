@@ -1,8 +1,8 @@
 Task 1: Data Download, Import, and Database Connection
-# -- Load the sql extention ----
+### Load the sql extention ----
 %load_ext sql
 
-# --- Load your mysql db using credentials from the "DB" area ---
+### Load your mysql db using credentials from the "DB" area ---
 %sql mysql+pymysql://<user>:<password>@localhost/<db_name>
 
 Task 2: Average Hospital Charges Analysis
